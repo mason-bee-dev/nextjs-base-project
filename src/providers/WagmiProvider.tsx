@@ -7,7 +7,7 @@ import {
   getDefaultConfig,
   RainbowKitProvider,
 } from "@rainbow-me/rainbowkit"
-import { WagmiProvider as WagmiProviderBase } from "wagmi"
+import { WagmiProvider as WagmiProviderBase, http } from "wagmi"
 import { APP_ENVIRONMENTS } from "@/configs/env"
 const { ACTIVE_CHAIN } = APP_ENVIRONMENTS.RAINBOWKIT
 
@@ -15,6 +15,9 @@ const config = getDefaultConfig({
   appName: "Ezel App",
   projectId: APP_ENVIRONMENTS.RAINBOWKIT.PROJECT_ID,
   chains: [ACTIVE_CHAIN],
+  transports: {
+    [ACTIVE_CHAIN.id]: http(APP_ENVIRONMENTS.RAINBOWKIT.RPC_URL),
+  },
 })
 
 export default function WagmiProvider({

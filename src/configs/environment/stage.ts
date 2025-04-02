@@ -13,6 +13,7 @@ const STAGE_ENV: Environments = {
   RAINBOWKIT: {
     ACTIVE_CHAIN: sepolia,
     PROJECT_ID: "9ef7ccf9f37a9ab2062189888bfe678c",
+    RPC_URL: "https://ethereum-sepolia-rpc.publicnode.com",
   },
 }
 

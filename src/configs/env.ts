@@ -14,6 +14,7 @@ export type Environments = {
   RAINBOWKIT: {
     ACTIVE_CHAIN: Chain
     PROJECT_ID: string
+    RPC_URL: string
   }
 }
 

@@ -15,6 +15,7 @@ const PRODUCTION_ENV: Environments = {
   RAINBOWKIT: {
     ACTIVE_CHAIN: mainnet,
     PROJECT_ID: "9ef7ccf9f37a9ab2062189888bfe678c",
+    RPC_URL: "https://ethereum-rpc.publicnode.com",
   },
 }
 
