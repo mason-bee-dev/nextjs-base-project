@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+@theme {
+  --color-yellow-primary: #f1cd01;
+  --color-black-primary: #111111;
+
+  --font-noto-sans: var(--font-noto-sans);
+  --font-open-sans: var(--font-open-sans);
+  --font-poppins: var(--font-poppins);
+  --font-inter: var(--font-inter);
+}

@@ -4,7 +4,8 @@ import { Environments } from "../env"
 const STAGE_ENV: Environments = {
   IS_PRODUCTION: false,
   API: {
-    ROOT_URL: "https://15dv3yayq3.execute-api.ap-southeast-1.amazonaws.com/dev",
+    ROOT_URL: String(process.env.CUSTOM_API_ROOT_URL || ""),
+    "X-API-KEY": String(process.env.CUSTOM_API_KEY || ""),
   },
   ASSETS: {
     ROOT_URL: "https://pellar-dev.s3.ap-southeast-1.amazonaws.com",

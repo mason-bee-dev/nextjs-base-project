@@ -6,8 +6,8 @@ import { Environments } from "../env"
 const PRODUCTION_ENV: Environments = {
   IS_PRODUCTION: true,
   API: {
-    ROOT_URL:
-      "https://4tnzjg4rvi.execute-api.ap-southeast-1.amazonaws.com/prod",
+    ROOT_URL: process.env.CUSTOM_API_ROOT_URL || "",
+    "X-API-KEY": process.env.CUSTOM_API_KEY || "",
   },
   ASSETS: {
     ROOT_URL: "https://assets-tickify.s3.ap-southeast-1.amazonaws.com",
@@ -16,6 +16,12 @@ const PRODUCTION_ENV: Environments = {
     ACTIVE_CHAIN: mainnet,
     PROJECT_ID: "9ef7ccf9f37a9ab2062189888bfe678c",
   },
+}
+
+// Add debugging in development
+if (process.env.NODE_ENV === "development") {
+  console.log("API Root URL:", process.env.CUSTOM_API_ROOT_URL)
+  console.log("API Key:", process.env.CUSTOM_API_KEY)
 }
 
 export default PRODUCTION_ENV

@@ -6,6 +6,7 @@ export type Environments = {
   IS_PRODUCTION: boolean
   API: {
     ROOT_URL: string
+    "X-API-KEY": string
   }
   ASSETS: {
     ROOT_URL: string

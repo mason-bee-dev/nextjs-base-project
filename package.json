@@ -3,8 +3,8 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "next dev --turbopack",
-    "build": "next build",
+    "dev": "GENERATE_SOURCEMAP=false next dev --turbopack",
+    "build": "GENERATE_SOURCEMAP=false next build",
     "start": "next start",
     "lint": "next lint --fix",
     "format": "prettier --write ."
@@ -12,16 +12,20 @@
   "dependencies": {
     "@rainbow-me/rainbowkit": "^2.2.4",
     "@tanstack/react-query": "^5.71.1",
+    "axios": "^1.8.4",
+    "lodash": "^4.17.21",
     "next": "15.2.4",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "react-toastify": "^11.0.5",
+    "tailwind-merge": "^3.1.0",
     "viem": "^2.24.2",
     "wagmi": "^2.14.15"
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3",
     "@tailwindcss/postcss": "^4",
+    "@types/lodash": "^4.17.16",
     "@types/node": "^20",
     "@types/react": "^19",
     "@types/react-dom": "^19",
