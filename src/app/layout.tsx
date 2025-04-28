@@ -2,6 +2,7 @@ import type { Metadata } from "next"
 import { inter, notoSans, openSans, poppins } from "@/fonts"
 
 import "@/styles/globals.css"
+import "katex/dist/katex.min.css"
 
 import AppProvider from "@/providers/AppProvider"
 import { cn } from "@/utils/helper"

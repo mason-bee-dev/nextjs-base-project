@@ -1,0 +1,4326 @@
+{
+  "title": "Toán học và xử lí số liệu",
+  "total_question": 50,
+  "time": 4500,
+  "total_point": 50,
+  "questions": [
+    {
+      "_id": "674fdf53bd608c5c9e8731ca",
+      "chapter": {
+        "id": "674fc329af166c5c9ef00a23",
+        "name": "[ABCD] Mệnh đề "
+      },
+      "parent": {
+        "id": ""
+      },
+      "question_style": {
+        "general": 1,
+        "mobile": 1
+      },
+      "content_type": 2,
+      "question_type": 1,
+      "difficult_degree": 2,
+      "question": {
+        "id": "2",
+        "content": [
+          {
+            "type": "html",
+            "content": "<p>Cho định l&yacute; &ldquo; Nếu hai tam gi&aacute;c bằng nhau th&igrave; diện t&iacute;ch của ch&uacute;ng bằng nhau&rdquo; . Mệnh đề n&agrave;o dưới đ&acirc;y đ&uacute;ng?</p>"
+          }
+        ],
+        "answers": [
+          {
+            "id": "3",
+            "text": [
+              {
+                "type": "html",
+                "content": "<p>Hai tam gi&aacute;c bằng nhau l&agrave; điều kiện cần v&agrave; đủ để diện t&iacute;ch của ch&uacute;ng bằng nhau.</p>"
+              }
+            ],
+            "answer_key": "a",
+            "correct": false,
+            "question": "2"
+          },
+          {
+            "id": "4",
+            "text": [
+              {
+                "type": "html",
+                "content": "<p>Hai tam gi&aacute;c c&oacute; diện t&iacute;ch bằng nhau l&agrave; điều kiện đủ để ch&uacute;ng bằng nhau.</p>"
+              }
+            ],
+            "answer_key": "b",
+            "correct": false,
+            "question": "2"
+          },
+          {
+            "id": "5",
+            "text": [
+              {
+                "type": "html",
+                "content": "<p>Hai tam gi&aacute;c bằng nhau l&agrave; điều kiện cần để diện t&iacute;ch ch&uacute;ng bằng nhau.</p>"
+              }
+            ],
+            "answer_key": "c",
+            "correct": false,
+            "question": "2"
+          },
+          {
+            "id": "6",
+            "text": [
+              {
+                "type": "html",
+                "content": "<p>Hai tam gi&aacute;c bằng nhau l&agrave; điều kiện đủ để diện t&iacute;ch của ch&uacute;ng bằng nhau.</p>"
+              }
+            ],
+            "answer_key": "d",
+            "correct": true,
+            "question": "2"
+          }
+        ],
+        "quiz": "1"
+      },
+      "solution_suggesstion": [
+        {
+          "type": "html",
+          "content": "<p>Mệnh đề nếu th&igrave;.</p>"
+        }
+      ],
+      "related_lesson": [],
+      "solution_detail": [
+        {
+          "type": "html",
+          "content": "<p>Mệnh đề &ldquo; Nếu \\(P\\) th&igrave; \\(Q\\), trong đ&oacute; \\(P\\) l&agrave; điều kiện đủ để c&oacute; \\(Q\\), v&agrave; \\(Q\\) l&agrave; điều kiện cần để c&oacute; \\(P\\).</p>\n<p>\\(P\\): &ldquo;l&agrave; hai tam gi&aacute;c bằng nhau&rdquo;</p>\n<p>\\(Q\\): &ldquo;l&agrave; diện t&iacute;ch của ch&uacute;ng bằng nhau&rdquo;</p>\n<p>Vậy &ldquo;Hai tam gi&aacute;c bằng nhau l&agrave; điều kiện để để diện t&iacute;ch của ch&uacute;ng bằng nhau.&rdquo;</p>"
+        }
+      ],
+      "note": [],
+      "group_id": "674fdf53bd608c5c9e8731cc",
+      "order": 1,
+      "sub_order": 1,
+      "idx": 202022,
+      "time_answer_question": 0
+    },
+    {
+      "_id": "674fe115bd608c5c9e8731cf",
+      "chapter": {
+        "id": "674fda3caf166c5c9ef00b0b",
+        "name": "[ABCD] Giải tam giác và ứng dụng "
+      },
+      "parent": {
+        "id": ""
+      },
+      "question_style": {
+        "general": 1,
+        "mobile": 1
+      },
+      "content_type": 2,
+      "question_type": 1,
+      "difficult_degree": 3,
+      "question": {
+        "id": "2",
+        "content": [
+          {
+            "type": "html",
+            "content": "<p>Tr&ecirc;n sườn đồi, với độ dốc 16% (Độ dốc của sườn đồi được t&iacute;nh bằng tan của g&oacute;c nhọn tạo bởi sườn đồi với phương nằm ngang ) c&oacute; một c&acirc;y cao thẳng đứng. Ở ph&iacute;a ch&acirc;n đồi, c&aacute;ch gốc c&acirc;y \\(30m\\), người ta nh&igrave;n ngọn c&acirc;y dưới một g&oacute;c \\({45^o}\\) so với phương nằm ngang. T&iacute;nh chiều cao của c&acirc;y đ&oacute; (l&agrave;m tr&ograve;n đến h&agrave;ng đơn vị, theo đơn vị m&eacute;t).</p>"
+          }
+        ],
+        "answers": [
+          {
+            "id": "3",
+            "text": [
+              {
+                "type": "html",
+                "content": "<p>\\(25m\\).</p>"
+              }
+            ],
+            "answer_key": "a",
+            "correct": true,
+            "question": "2"
+          },
+          {
+            "id": "4",
+            "text": [
+              {
+                "type": "html",
+                "content": "<p>\\(26m\\).</p>"
+              }
+            ],
+            "answer_key": "b",
+            "correct": false,
+            "question": "2"
+          },
+          {
+            "id": "5",
+            "text": [
+              {
+                "type": "html",
+                "content": "<p>\\(27m\\).</p>"
+              }
+            ],
+            "answer_key": "c",
+            "correct": false,
+            "question": "2"
+          },
+          {
+            "id": "6",
+            "text": [
+              {
+                "type": "html",
+                "content": "<p>\\(28m\\).</p>"
+              }
+            ],
+            "answer_key": "d",
+            "correct": false,
+            "question": "2"
+          }
+        ],
+        "quiz": "1"
+      },
+      "solution_suggesstion": [
+        {
+          "type": "html",
+          "content": "<p>C&ocirc;ng thức hệ thức lượng</p>"
+        }
+      ],
+      "related_lesson": [],
+      "solution_detail": [
+        {
+          "type": "html",
+          "content": "<p class=\"MTDisplayEquation\">Coi người nh&igrave;n từ điểm A c&aacute;ch gốc c&acirc;y B một khoảng <span class=\"MTConvertedEquation\"><span lang=\"VI\">\\(30m\\)</span></span>, nh&igrave;n ngọn c&acirc;y C dưới g&oacute;c <span class=\"MTConvertedEquation\"><span lang=\"VI\">\\({45^o}\\)</span></span>.</p>\n<p class=\"MTDisplayEquation\"><img src=\"https://cdn.vungoi.vn/vungoi/2024/1204/1733288184647_mceclip0.png\" /></p>\n<p class=\"MTDisplayEquation\">Do sườn đồi dốc 16%, n&ecirc;n sườn đồi tạo với phương nằm ngang một g&oacute;c <span class=\"MTConvertedEquation\"><span lang=\"VI\">\\(\\widehat {BAD} \\approx {9^o}\\)</span></span>.</p>\n<p class=\"MTDisplayEquation\">Từ đ&oacute; ta c&oacute;: <span class=\"MTConvertedEquation\"><span lang=\"VI\">\\(\\widehat {BAC} = \\widehat {DAC} - \\widehat {DAB} = {36^o}\\)</span></span> v&agrave; <span class=\"MTConvertedEquation\"><span lang=\"VI\">\\(\\widehat {BCA} = {45^o}\\)</span></span>.</p>\n<p class=\"MTDisplayEquation\">&Aacute;p dụng định l&yacute; Sin cho tam gi&aacute;c <span class=\"MTConvertedEquation\"><span lang=\"VI\">\\(ABC\\)</span></span>, ta được: <span class=\"MTConvertedEquation\"><span lang=\"VI\">\\(BC = \\dfrac{{AB}}{{\\sin \\widehat {BCA}}} \\cdot \\sin \\widehat {BAC} = 25(m).\\)</span></span></p>"
+        }
+      ],
+      "note": [],
+      "group_id": "674fe115bd608c5c9e8731d1",
+      "order": 1,
+      "sub_order": 1,
+      "idx": 202023,
+      "time_answer_question": 0
+    },
+    {
+      "_id": "674fe1a2bd608c5c9e8731d4",
+      "chapter": {
+        "id": "674fdc8eaf166c5c9ef00b1d",
+        "name": "[ĐVCT] Dấu của tam thức bậc hai "
+      },
+      "parent": {
+        "id": ""
+      },
+      "content_type": 2,
+      "question_type": 5,
+      "difficult_degree": 2,
+      "question": {
+        "id": "2",
+        "content": [
+          {
+            "type": "html",
+            "content": "<p>C&oacute; bao nhi&ecirc;u gi&aacute; trị nguy&ecirc;n dương của \\(m\\) để biểu thức \\(f(x) = {x^2} + (m + 1)x + 2m + 7 &gt; 0\\), \\(\\forall x \\in \\mathbb{R}.\\)( <em>nhập đ&aacute;p &aacute;n v&agrave;o &ocirc; trống</em>)</p>"
+          }
+        ],
+        "correct_answer": [
+          "8"
+        ],
+        "clean_duplicate_space": true,
+        "case_intensitive": false,
+        "trim_white_space": true,
+        "trim_characters": "",
+        "prefix_break_line": false,
+        "prefix_input": [
+          {
+            "type": "html",
+            "content": "<p>Đ&aacute;p &aacute;n:</p>"
+          }
+        ],
+        "suffix_break_line": false,
+        "suffix_input": [
+          {
+            "type": "html",
+            "content": "<p>.</p>"
+          }
+        ],
+        "quiz": "1"
+      },
+      "solution_suggesstion": [
+        {
+          "type": "html",
+          "content": "<p>Dấu của tam thức bậc hai.</p>"
+        }
+      ],
+      "related_lesson": [],
+      "solution_detail": [
+        {
+          "type": "html",
+          "content": "<p>\\(f(x) = {x^2} + (m + 1)x + 2m + 7 &gt; 0\\), \\(\\forall x \\in \\mathbb{R}.\\)</p>\n<p>Khi đ&oacute; ta c&oacute;: \\(\\left\\{ \\begin{array}{l}a &gt; 0\\\\\\Delta&nbsp; &lt; 0\\end{array} \\right. \\Leftrightarrow \\left\\{ \\begin{array}{l}1 &gt; 0\\\\{(m + 1)^2} - 4(2m + 7) &lt; 0\\end{array} \\right. \\Leftrightarrow {m^2} - 6m - 27 &lt; 0 \\Leftrightarrow&nbsp; - 3 &lt; m &lt; 9\\).</p>\n<p>M&agrave; ta cần t&igrave;m \\(m\\) nguy&ecirc;n dương. Vậy suy ra \\(m \\in \\left\\{ {1;2;3;4;5;6;7;8} \\right\\}\\), do đ&oacute; c&oacute; 8 gi&aacute; trị \\(m\\) thỏa m&atilde;n.</p>"
+        }
+      ],
+      "note": [],
+      "group_id": "674fe1a2bd608c5c9e8731d6",
+      "order": 1,
+      "sub_order": 1,
+      "idx": 202024,
+      "time_answer_question": 0
+    },
+    {
+      "_id": "674ff8f2bd608c5c9e8731de",
+      "chapter": {
+        "id": "674fc054af166c5c9ef00a09",
+        "name": "[ABCD] Mẫu số liệu không ghép nhóm "
+      },
+      "parent": {
+        "id": ""
+      },
+      "question_style": {
+        "general": 1,
+        "mobile": 1
+      },
+      "content_type": 2,
+      "question_type": 1,
+      "difficult_degree": 2,
+      "question": {
+        "id": "2",
+        "content": [
+          {
+            "type": "html",
+            "content": "<p>Khảo s&aacute;t 50 kh&aacute;ch h&agrave;ng trong một cửa h&agrave;ng gi&agrave;y d&eacute;p. Ta thống k&ecirc; được số cỡ gi&agrave;y m&agrave; c&aacute;c kh&aacute;ch h&agrave;nh thường sử dụng như sau:</p>\n<p><img src=\"https://cdn.vungoi.vn/vungoi/2024/1204/1733294229783_mceclip0.png\" /></p>\n<p>Trung vị của mẫu số liệu tr&ecirc;n l&agrave; \\(37,5\\) , vậy \\(x,y\\) bằng bao nhi&ecirc;u?</p>"
+          }
+        ],
+        "answers": [
+          {
+            "id": "3",
+            "text": [
+              {
+                "type": "html",
+                "content": "<p>\\(x = 6,y = 13\\).</p>"
+              }
+            ],
+            "answer_key": "a",
+            "correct": false,
+            "question": "2"
+          },
+          {
+            "id": "4",
+            "text": [
+              {
+                "type": "html",
+                "content": "<p>\\(x = 8,y = 11\\).</p>"
+              }
+            ],
+            "answer_key": "b",
+            "correct": false,
+            "question": "2"
+          },
+          {
+            "id": "5",
+            "text": [
+              {
+                "type": "html",
+                "content": "<p>\\(x = 7,y = 13\\).</p>"
+              }
+            ],
+            "answer_key": "c",
+            "correct": false,
+            "question": "2"
+          },
+          {
+            "id": "6",
+            "text": [
+              {
+                "type": "html",
+                "content": "<p>\\(x = 7,y = 12\\).</p>"
+              }
+            ],
+            "answer_key": "d",
+            "correct": true,
+            "question": "2"
+          }
+        ],
+        "quiz": "1"
+      },
+      "solution_suggesstion": [
+        {
+          "type": "html",
+          "content": "<p>C&ocirc;ng thức t&iacute;nh trung vị.</p>"
+        }
+      ],
+      "related_lesson": [],
+      "solution_detail": [
+        {
+          "type": "html",
+          "content": "<p>Ta c&oacute;: \\(n = 50\\) n&ecirc;n trung vị của d&atilde;y số liệu l&agrave; trung b&igrave;nh cộng của hai số ở vị tr&iacute; \\(25\\) v&agrave; \\(26\\).</p>\n<p>M&agrave; trung vị của mẫu số liệu tr&ecirc;n l&agrave; \\(37,5\\). Hay \\({M_e} = \\dfrac{{37 + 38}}{2} = 37,5.\\)</p>\n<p>Từ đ&oacute; ta c&oacute; s&ocirc; liệu đứng thứ \\(25\\) l&agrave; \\(37\\) v&agrave; thứ \\(26\\) l&agrave; \\(38\\). Suy ra \\(x = 7\\).</p>\n<p>M&agrave; cỡ mẫu \\(n = 50\\), vậy \\(y = 12\\).</p>"
+        }
+      ],
+      "note": [],
+      "group_id": "674ff8f2bd608c5c9e8731e0",
+      "order": 1,
+      "sub_order": 1,
+      "idx": 202025,
+      "time_answer_question": 0
+    },
+    {
+      "_id": "674ff95fbd608c5c9e8731e3",
+      "chapter": {
+        "id": "674fca17af166c5c9ef00a87",
+        "name": "[ABCD] Xác suất cổ điển "
+      },
+      "parent": {
+        "id": ""
+      },
+      "question_style": {
+        "general": 1,
+        "mobile": 1
+      },
+      "content_type": 2,
+      "question_type": 1,
+      "difficult_degree": 2,
+      "question": {
+        "id": "2",
+        "content": [
+          {
+            "type": "html",
+            "content": "<p>Một đội văn nghệ c&oacute; 6 nam v&agrave; 8 nữ, cần lập một nh&oacute;m 4 người h&aacute;t tốp ca một c&aacute;ch ngẫu nhi&ecirc;n. X&aacute;c suất để trong 4 người được chọn c&oacute; &iacute;t nhất 3 nam bằng</p>"
+          }
+        ],
+        "answers": [
+          {
+            "id": "3",
+            "text": [
+              {
+                "type": "html",
+                "content": "<p>\\(\\dfrac{{70}}{{143}}.\\)</p>"
+              }
+            ],
+            "answer_key": "a",
+            "correct": false,
+            "question": "2"
+          },
+          {
+            "id": "4",
+            "text": [
+              {
+                "type": "html",
+                "content": "<p>\\(\\dfrac{{73}}{{143}}.\\)</p>"
+              }
+            ],
+            "answer_key": "b",
+            "correct": false,
+            "question": "2"
+          },
+          {
+            "id": "5",
+            "text": [
+              {
+                "type": "html",
+                "content": "<p>\\(\\dfrac{{25}}{{143}}.\\)</p>"
+              }
+            ],
+            "answer_key": "c",
+            "correct": true,
+            "question": "2"
+          },
+          {
+            "id": "6",
+            "text": [
+              {
+                "type": "html",
+                "content": "<p>\\(\\dfrac{{16}}{{143}}.\\)</p>"
+              }
+            ],
+            "answer_key": "d",
+            "correct": false,
+            "question": "2"
+          }
+        ],
+        "quiz": "1"
+      },
+      "solution_suggesstion": [
+        {
+          "type": "html",
+          "content": "<p>T&iacute;nh x&aacute;c suất cổ điển.</p>"
+        }
+      ],
+      "related_lesson": [],
+      "solution_detail": [
+        {
+          "type": "html",
+          "content": "<p>\\(n(\\Omega ) = C_{14}^4 = 1001.\\)</p>\n<p>Ta c&oacute; hai trường hợp xảy ra: C&oacute; 3 nam hoặc 4 nam.</p>\n<p>Gọi A l&agrave; biến cố chọn được &iacute;t nhất 3 nam, khi đ&oacute;: \\(n(A) = C_6^3 \\cdot C_8^1 + C_6^4 = 175.\\)</p>\n<p>X&aacute;c suất để A xảy ra l&agrave;: \\(P(A) = \\dfrac{{n(A)}}{{n(\\Omega )}} = \\dfrac{{25}}{{143}}.\\)</p>"
+        }
+      ],
+      "note": [],
+      "group_id": "674ff95fbd608c5c9e8731e5",
+      "order": 1,
+      "sub_order": 1,
+      "idx": 202026,
+      "time_answer_question": 0
+    },
+    {
+      "_id": "674ff9ecbd608c5c9e8731ef",
+      "chapter": {
+        "id": "674fbf62af166c5c9ef009ff",
+        "name": "[ĐVCT] Tính chất hàm số lượng giác "
+      },
+      "parent": {
+        "id": ""
+      },
+      "content_type": 2,
+      "question_type": 5,
+      "difficult_degree": 2,
+      "question": {
+        "id": "2",
+        "content": [
+          {
+            "type": "html",
+            "content": "<p>T&igrave;m tham số \\(m\\) để h&agrave;m số \\(f(x) = 3m \\cdot \\sin (2025x) + cos(2025x)\\) l&agrave; h&agrave;m số chẵn ( <em>nhập đ&aacute;p &aacute;n v&agrave;o &ocirc; trống</em>).</p>"
+          }
+        ],
+        "correct_answer": [
+          "0"
+        ],
+        "clean_duplicate_space": true,
+        "case_intensitive": false,
+        "trim_white_space": true,
+        "trim_characters": "",
+        "prefix_break_line": false,
+        "prefix_input": [
+          {
+            "type": "html",
+            "content": "<p>Đ&aacute;p &aacute;n:</p>"
+          }
+        ],
+        "suffix_break_line": false,
+        "suffix_input": [
+          {
+            "type": "html",
+            "content": "<p>.</p>"
+          }
+        ],
+        "quiz": "1"
+      },
+      "solution_suggesstion": [
+        {
+          "type": "html",
+          "content": "<p>Định nghĩa h&agrave;m số chẵn.</p>"
+        }
+      ],
+      "related_lesson": [],
+      "solution_detail": [
+        {
+          "type": "html",
+          "content": "<p>Tập x&aacute;c định: \\(D = \\mathbb{R}.\\)</p>\n<p>\\(\\forall x \\in \\mathbb{R} \\Rightarrow&nbsp; - x \\in \\mathbb{R}.\\)</p>\n<p>Để h&agrave;m số đ&atilde; cho l&agrave; h&agrave;m chẵn th&igrave; \\(f( - x) = f(x),\\forall x \\in \\mathbb{R}.\\)</p>\n<p>Khi đ&oacute; ta c&oacute;: \\(3m \\cdot \\sin ( - 2025x) + cos( - 2025x) = 3m \\cdot \\sin (2025x) + cos(2025x) \\Leftrightarrow 6m \\cdot \\sin (2025x) = 0,\\forall x \\in \\mathbb{R}.\\)</p>\n<p>\\( \\Leftrightarrow m = 0\\). Vậy \\(m = 0\\) thỏa m&atilde;n đề b&agrave;i</p>"
+        }
+      ],
+      "note": [],
+      "group_id": "674ff9ecbd608c5c9e8731f1",
+      "order": 1,
+      "sub_order": 1,
+      "idx": 202027,
+      "time_answer_question": 0
+    },
+    {
+      "_id": "674ffb33bd608c5c9e8731f4",
+      "chapter": {
+        "id": "674fd00daf166c5c9ef00abf",
+        "name": "[ĐVCT] Hàm số liên tục "
+      },
+      "parent": {
+        "id": ""
+      },
+      "content_type": 2,
+      "question_type": 5,
+      "difficult_degree": 3,
+      "question": {
+        "id": "2",
+        "content": [
+          {
+            "type": "html",
+            "content": "<p>Cho h&agrave;m số \\(f(x) = \\left\\{ \\begin{array}{l}1 + \\cos x,\\mathop {}\\limits_{} \\sin x \\ge 0\\\\3 - \\cos x,\\mathop {}\\limits_{} \\sin x &lt; 0\\end{array} \\right..\\) H&agrave;m số c&oacute; bao nhi&ecirc;u điểm gi&aacute;n đoạn tr&ecirc;n khoảng \\((0;2025)\\) (<em>nhập đ&aacute;p &aacute;n v&agrave;o &ocirc; trống</em>).</p>"
+          }
+        ],
+        "correct_answer": [
+          "322"
+        ],
+        "clean_duplicate_space": true,
+        "case_intensitive": false,
+        "trim_white_space": true,
+        "trim_characters": "",
+        "prefix_break_line": false,
+        "prefix_input": [
+          {
+            "type": "html",
+            "content": "<p>Đ&aacute;p &aacute;n:</p>"
+          }
+        ],
+        "suffix_break_line": false,
+        "suffix_input": [
+          {
+            "type": "html",
+            "content": "<p>.</p>"
+          }
+        ],
+        "quiz": "1"
+      },
+      "solution_suggesstion": [
+        {
+          "type": "html",
+          "content": "<p>H&agrave;m số li&ecirc;n tục.</p>"
+        }
+      ],
+      "related_lesson": [],
+      "solution_detail": [
+        {
+          "type": "html",
+          "content": "<p>H&agrave;m số li&ecirc;n tục khi \\(\\sin x = 0.\\) Ta c&oacute; \\(\\sin x = 0 \\Leftrightarrow x = k\\pi ,k \\in \\mathbb{Z}.\\)</p>\n<p>Trường hợp 1: \\(x = 0\\) - tương ứng với \\(k\\) chẵn .</p>\n<p>\\(\\left. \\begin{array}{l}\\mathop {\\lim }\\limits_{x \\to {0^ + }} f(x) = \\mathop {\\lim }\\limits_{x \\to {0^ + }} (1 + \\cos x) = 2\\\\\\mathop {\\lim }\\limits_{x \\to {0^ - }} f(x) = \\mathop {\\lim }\\limits_{x \\to 0} (3 - \\cos x) = 2\\end{array} \\right\\} \\Rightarrow \\)H&agrave;m số li&ecirc;n tục tại \\(x = 0\\).</p>\n<p>Trường hợp 2: \\(x = \\pi \\) - tương ứng với \\(k\\) lẻ.</p>\n<p>\\(\\left. \\begin{array}{l}\\mathop {\\lim }\\limits_{x \\to {\\pi ^ + }} f(x) = \\mathop {\\lim }\\limits_{x \\to {\\pi ^ + }} (1 + \\cos x) = 0\\\\\\mathop {\\lim }\\limits_{x \\to {\\pi ^ - }} f(x) = \\mathop {\\lim }\\limits_{x \\to {\\pi ^ + }} (3 - \\cos x) = 4\\end{array} \\right\\} \\Rightarrow \\)H&agrave;m số kh&ocirc;ng li&ecirc;n tục tại \\(x = \\pi \\).</p>\n<p>Mặt kh&aacute;c ta c&oacute; \\(0 &lt; x = k\\pi&nbsp; &lt; 2025 \\Leftrightarrow 0 &lt; k\\pi&nbsp; &lt; 644,6\\pi&nbsp; \\Leftrightarrow 0 &lt; k &lt; 644,6\\)</p>\n<p>Vậy c&oacute; \\(322\\) gi&aacute; trị \\(k\\) lẻ thuộc đoạn tr&ecirc;n n&ecirc;n h&agrave;m số gi&aacute;n đoạn tại \\(322\\) điểm.</p>"
+        }
+      ],
+      "note": [],
+      "group_id": "674ffb33bd608c5c9e8731f6",
+      "order": 1,
+      "sub_order": 1,
+      "idx": 202028,
+      "time_answer_question": 0
+    },
+    {
+      "_id": "674ffd1fbd608c5c9e8731fb",
+      "chapter": {
+        "id": "674ffbbcaf166c5c9ef00b2a",
+        "name": "Câu hỏi chùm "
+      },
+      "parent": {
+        "id": ""
+      },
+      "content_type": 2,
+      "question_type": 2,
+      "question": {
+        "id": "cm49j4o5b000b357l7jul0d4i",
+        "content": [
+          {
+            "type": "html",
+            "content": "<p><strong>Dựa v&agrave;o th&ocirc;ng tin cung cấp dưới đ&acirc;y để trả lời c&aacute;c c&acirc;u hỏi từ 8 đến 10</strong></p>\n<p>Một c&ocirc;ng ty tuyển nh&acirc;n vi&ecirc;n v&agrave;o l&agrave;m việc v&agrave; đưa ra hai phương &aacute;n lựa chọn về lương như sau:</p>\n<p>Phương &aacute;n 1: Lương th&aacute;ng khởi điểm l&agrave; \\(5\\) triệu đồng v&agrave; sau mỗi qu&yacute;, lương th&aacute;ng tăng th&ecirc;m \\(500\\) ngh&igrave;n đồng.</p>\n<p>Phương &aacute;n 2: Lương th&aacute;ng khởi điểm l&agrave; \\(5\\) triệu đồng v&agrave; sau mỗi qu&yacute;, lương th&aacute;ng tăng th&ecirc;m \\(5\\% \\).</p>"
+          }
+        ],
+        "sub_quizzes": [
+          {
+            "id": "cm49j4o5b000c357ln9rml48q",
+            "question_type": 1,
+            "difficult_degree": 2,
+            "question_style": {
+              "general": 1,
+              "mobile": 1
+            },
+            "solution_suggesstion": [
+              {
+                "type": "html",
+                "content": "<p>Cấp số cộng.</p>"
+              }
+            ],
+            "related_lesson": [],
+            "solution_detail": [
+              {
+                "type": "html",
+                "content": "<p>Theo phương &aacute;n 1, Tổng tiền lương mỗi qu&yacute; sẽ tạo th&agrave;nh cấp số cộng với \\({u_1} = 5 \\cdot 3 = 15\\), c&ocirc;ng sai \\(d = 0,5 \\cdot 3 = 1,5\\)</p>\n<p>Suy ra c&ocirc;ng thức tổng qu&aacute;t: \\({u_n} = 15 + 1,5(n - 1).\\)</p>\n<p>M&agrave; th&aacute;ng thứ 8 nằm trong qu&yacute; thứ 3</p>\n<p>N&ecirc;n ta c&oacute; lương th&aacute;ng thứ 8 l&agrave;: \\(\\dfrac{{{u_3}}}{3} = \\dfrac{{15 + 1,5 \\cdot 2}}{3} = 6.\\)</p>"
+              }
+            ],
+            "note": [],
+            "attachment": {
+              "questionFile": "",
+              "solutionDetailFile": "",
+              "audioFile": ""
+            },
+            "question_child": {
+              "id": "cm49j4o5b000d357lf3x9ek5k",
+              "content": [
+                {
+                  "type": "html",
+                  "content": "<p>Nếu nh&acirc;n vi&ecirc;n lựa chọn phương &aacute;n 1 th&igrave; th&aacute;ng thứ 8 sẽ nhận được số tiền bằng ( đơn vị triệu đồng)</p>"
+                }
+              ],
+              "answers": [
+                {
+                  "id": "cm49j4o5b000e357l453b3ugu",
+                  "text": [
+                    {
+                      "type": "html",
+                      "content": "<p>\\(18.\\)</p>"
+                    }
+                  ],
+                  "answer_key": "a",
+                  "correct": false,
+                  "question_child": "cm49j4o5b000d357lf3x9ek5k"
+                },
+                {
+                  "id": "cm49j4o5b000f357lr5wxddo4",
+                  "text": [
+                    {
+                      "type": "html",
+                      "content": "<p>\\(7,2.\\)</p>"
+                    }
+                  ],
+                  "answer_key": "b",
+                  "correct": false,
+                  "question_child": "cm49j4o5b000d357lf3x9ek5k"
+                },
+                {
+                  "id": "cm49j4o5b000g357lydwd95yh",
+                  "text": [
+                    {
+                      "type": "html",
+                      "content": "<p>\\(6.\\)</p>"
+                    }
+                  ],
+                  "answer_key": "c",
+                  "correct": true,
+                  "question_child": "cm49j4o5b000d357lf3x9ek5k"
+                },
+                {
+                  "id": "cm49j4o5b000h357lqwvhwcke",
+                  "text": [
+                    {
+                      "type": "html",
+                      "content": "<p>\\(7,5.\\)</p>"
+                    }
+                  ],
+                  "answer_key": "d",
+                  "correct": false,
+                  "question_child": "cm49j4o5b000d357lf3x9ek5k"
+                }
+              ],
+              "sub_quizzes": "cm49j4o5b000c357ln9rml48q"
+            },
+            "question": "cm49j4o5b000b357l7jul0d4i",
+            "_id": "674ffd1fbd608c5c9e8731fe"
+          },
+          {
+            "id": "cm49j4o5b000i357lt78jy0py",
+            "question_type": 1,
+            "difficult_degree": 2,
+            "question_style": {
+              "general": 1,
+              "mobile": 1
+            },
+            "solution_suggesstion": [
+              {
+                "type": "html",
+                "content": "<p>Cấp số nh&acirc;n</p>"
+              }
+            ],
+            "related_lesson": [],
+            "solution_detail": [
+              {
+                "type": "html",
+                "content": "<p>Theo phương &aacute;n 2, Tổng tiền lương mỗi qu&yacute; sẽ tạo th&agrave;nh cấp số nh&acirc;n với \\({u_1} = 5 \\cdot 3 = 15\\), c&ocirc;ng bội \\(q = 1,05.\\)</p>\n<p>Suy ra c&ocirc;ng thức tổng qu&aacute;t: \\({u_n} = 15 \\cdot 1,{05^{n - 1}}\\)</p>\n<p>M&agrave; th&aacute;ng thứ 10 nằm trong qu&yacute; thứ 4</p>\n<p>N&ecirc;n ta c&oacute; lương th&aacute;ng thứ 10 l&agrave;: \\(\\dfrac{{{u_4}}}{3} = \\dfrac{{15 \\cdot 1,{{05}^3}}}{3} \\approx 5,8.\\)</p>"
+              }
+            ],
+            "note": [],
+            "attachment": {
+              "questionFile": "",
+              "solutionDetailFile": "",
+              "audioFile": ""
+            },
+            "question_child": {
+              "id": "cm49j4o5b000j357lpvp0t3za",
+              "content": [
+                {
+                  "type": "html",
+                  "content": "<p>Nếu nh&acirc;n vi&ecirc;n lựa chọn phương &aacute;n 2 th&igrave; th&aacute;ng thứ 10 sẽ nhận được số tiền bằng ( đơn vị triệu đồng)</p>"
+                }
+              ],
+              "answers": [
+                {
+                  "id": "cm49j4o5b000k357ldyjz47j9",
+                  "text": [
+                    {
+                      "type": "html",
+                      "content": "<p>\\(5,8.\\)</p>"
+                    }
+                  ],
+                  "answer_key": "a",
+                  "correct": true,
+                  "question_child": "cm49j4o5b000j357lpvp0t3za"
+                },
+                {
+                  "id": "cm49j4o5b000l357lmfz0yr1c",
+                  "text": [
+                    {
+                      "type": "html",
+                      "content": "<p>\\(5,5.\\)</p>"
+                    }
+                  ],
+                  "answer_key": "b",
+                  "correct": false,
+                  "question_child": "cm49j4o5b000j357lpvp0t3za"
+                },
+                {
+                  "id": "cm49j4o5b000m357l7g0xcwic",
+                  "text": [
+                    {
+                      "type": "html",
+                      "content": "<p>\\(6.\\)</p>"
+                    }
+                  ],
+                  "answer_key": "c",
+                  "correct": false,
+                  "question_child": "cm49j4o5b000j357lpvp0t3za"
+                },
+                {
+                  "id": "cm49j4o5b000n357ln0qca85c",
+                  "text": [
+                    {
+                      "type": "html",
+                      "content": "<p>\\(6,3.\\)</p>"
+                    }
+                  ],
+                  "answer_key": "d",
+                  "correct": false,
+                  "question_child": "cm49j4o5b000j357lpvp0t3za"
+                }
+              ],
+              "sub_quizzes": "cm49j4o5b000i357lt78jy0py"
+            },
+            "question": "cm49j4o5b000b357l7jul0d4i",
+            "_id": "674ffd1fbd608c5c9e8731ff"
+          },
+          {
+            "id": "cm49j4ylh0016357l7tw5st5q",
+            "question_type": 1,
+            "difficult_degree": 3,
+            "question_style": {
+              "general": 1
+            },
+            "solution_suggesstion": [
+              {
+                "type": "html",
+                "content": "<p>Cấp số nh&acirc;n v&agrave; cấp số cộng.</p>"
+              }
+            ],
+            "related_lesson": [],
+            "solution_detail": [
+              {
+                "type": "html",
+                "content": "<p>Tổng số tiền nh&acirc;n vi&ecirc;n B nhận được sau \\(n\\) qu&yacute; l&agrave;m việc l&agrave; \\({S_n} = \\) \\(\\dfrac{{15(1 - 1,{{05}^n})}}{{1 - 1,05}}\\)</p>\n<p>Số tiền tiết kiệm của B sau 1 năm (4 qu&yacute; ) l&agrave; \\({S_4} - 4 \\cdot {u_1} = \\dfrac{{15\\left( {1 - 1,{{05}^4}} \\right)}}{{1 - 1,05}} - 4 \\cdot 15 \\approx 4,7\\)</p>\n<p>Do đ&oacute;, chiếc điện thoại trị gi&aacute; \\(4,7\\) triệu đồng.</p>\n<p>Số tiền tiết kiệm của A sau \\(n\\) qu&yacute; l&agrave; \\(1,5 \\cdot \\left( {n - 1} \\right) \\Leftrightarrow 1,5 \\cdot \\left( {n - 1} \\right) = 4,7 \\Leftrightarrow n \\approx 4,1\\).</p>\n<p>Vậy A cần &iacute;t nhất 13 th&aacute;ng để mua chiếc điện thoại đ&oacute;.</p>"
+              }
+            ],
+            "note": [],
+            "attachment": {
+              "questionFile": "",
+              "solutionDetailFile": "",
+              "audioFile": ""
+            },
+            "question_child": {
+              "id": "cm49j4ylh0017357lxop5yo0s",
+              "content": [
+                {
+                  "type": "html",
+                  "content": "<p>Giả sử nh&acirc;n vi&ecirc;n A chọn phương &aacute;n 1 v&agrave; nh&acirc;n vi&ecirc;n B chọn phương &aacute;n 2. Mỗi th&aacute;ng sinh hoạt ph&iacute; của mỗi người đều l&agrave; \\(5\\) triệu đồng v&agrave; số tiền c&ograve;n lại tiết kiệm để mua một chiếc điện thoại. Gi&aacute; trị của chiếc điện thoại đ&uacute;ng bằng số tiền B tiết kiệm sau 1 năm. Hỏi A cần tiết kiệm &iacute;t nhất bao nhi&ecirc;u th&aacute;ng để mua được chiếc điện thoại đ&oacute;.</p>"
+                }
+              ],
+              "answers": [
+                {
+                  "id": "cm49j4ylh0018357ldr9kudpc",
+                  "text": [
+                    {
+                      "type": "html",
+                      "content": "<p>\\(13.\\)</p>"
+                    }
+                  ],
+                  "answer_key": "a",
+                  "correct": true,
+                  "question_child": "cm49j4ylh0017357lxop5yo0s"
+                },
+                {
+                  "id": "cm49j4ylh0019357lv6ycduez",
+                  "text": [
+                    {
+                      "type": "html",
+                      "content": "<p>\\(14.\\)</p>"
+                    }
+                  ],
+                  "answer_key": "b",
+                  "correct": false,
+                  "question_child": "cm49j4ylh0017357lxop5yo0s"
+                },
+                {
+                  "id": "cm49j4ylh001a357ld9teckkj",
+                  "text": [
+                    {
+                      "type": "html",
+                      "content": "<p>\\(15.\\)</p>"
+                    }
+                  ],
+                  "answer_key": "c",
+                  "correct": false,
+                  "question_child": "cm49j4ylh0017357lxop5yo0s"
+                },
+                {
+                  "id": "cm49j4ylh001b357ly9miyjnj",
+                  "text": [
+                    {
+                      "type": "html",
+                      "content": "<p>\\(16.\\)</p>"
+                    }
+                  ],
+                  "answer_key": "d",
+                  "correct": false,
+                  "question_child": "cm49j4ylh0017357lxop5yo0s"
+                }
+              ],
+              "sub_quizzes": "cm49j4ylh0016357l7tw5st5q"
+            },
+            "question": "cm49j4o5b000b357l7jul0d4i",
+            "_id": "674ffd1fbd608c5c9e873200"
+          }
+        ],
+        "quiz": "cm49j4o5b000a357lvthl25pz"
+      },
+      "hide_parent_content": false,
+      "group_id": "674ffd1fbd608c5c9e8731fd",
+      "order": 1,
+      "sub_order": 1,
+      "idx": 202032,
+      "time_answer_question": 0
+    },
+    {
+      "_id": "674ffed6bd608c5c9e873206",
+      "chapter": {
+        "id": "674fcc0aaf166c5c9ef00a9e",
+        "name": "[ĐVCT] Phương trình logarit "
+      },
+      "parent": {
+        "id": ""
+      },
+      "content_type": 2,
+      "question_type": 5,
+      "difficult_degree": 3,
+      "question": {
+        "id": "2",
+        "content": [
+          {
+            "type": "html",
+            "content": "<p>T&igrave;m tham số \\(m\\) để phương tr&igrave;nh \\({m^2}\\ln \\left( {\\dfrac{x}{e}} \\right) = \\left( {2 - m} \\right)\\ln x - 4\\) c&oacute; nghiệm thuộc v&agrave;o đoạn \\(\\left[ {\\dfrac{1}{e};1} \\right]\\). (<em>nhập đ&aacute;p &aacute;n v&agrave;o &ocirc; trống</em>)</p>"
+          }
+        ],
+        "correct_answer": [
+          "2"
+        ],
+        "clean_duplicate_space": true,
+        "case_intensitive": false,
+        "trim_white_space": true,
+        "trim_characters": "",
+        "prefix_break_line": false,
+        "prefix_input": [
+          {
+            "type": "html",
+            "content": "<p>Đ&aacute;p &aacute;n:&nbsp;</p>"
+          }
+        ],
+        "suffix_break_line": false,
+        "suffix_input": [
+          {
+            "type": "html",
+            "content": "<p>.</p>"
+          }
+        ],
+        "quiz": "1"
+      },
+      "solution_suggesstion": [
+        {
+          "type": "html",
+          "content": "<p>Biến đổi phương tr&igrave;nh v&agrave; biện luận theo \\(m\\)</p>"
+        }
+      ],
+      "related_lesson": [],
+      "solution_detail": [
+        {
+          "type": "html",
+          "content": "<p>Ta c&oacute;: \\({m^2}\\ln \\left( {\\dfrac{x}{e}} \\right) = \\left( {2 - m} \\right)\\ln x - 4\\) \\( \\Leftrightarrow {m^2}\\left( {\\ln x - 1} \\right) = \\left( {2 - m} \\right)\\ln x - 4 \\Leftrightarrow \\left( {{m^2} + m - 2} \\right)\\ln x = {m^2} - 4.\\)&nbsp; (1)<br />\\( \\bullet \\) Với \\({m^2} + m - 2 = 0 \\Rightarrow m = 1(m &gt; 0)\\)</p>\n<p>(1) \\( \\Leftrightarrow 0 \\cdot \\ln x =&nbsp; - 3\\) ( V&ocirc; l&yacute;) Suy ra loại \\(m = 1\\)</p>\n<p>\\( \\bullet \\) Với \\(m \\ne 1\\)</p>\n<p>(1)\\( \\Leftrightarrow \\ln x = \\dfrac{{m - 2}}{{m - 1}}\\)&nbsp;&nbsp; (2).</p>\n<p>H&agrave;m số \\(y = \\ln x\\) đồng biến tr&ecirc;n \\(\\left[ {\\dfrac{1}{e};1} \\right]\\), suy ra \\(\\ln x \\in \\left[ { - 1;0} \\right]\\).</p>\n<p>Phương tr&igrave;nh (2) c&oacute; nghiệm thuộc đoạn \\(\\left[ {\\dfrac{1}{e};1} \\right]\\) khi:</p>\n<p>\\( - 1 \\le \\dfrac{{m - 2}}{{m - 1}} \\le 0 \\Leftrightarrow \\left\\{ \\begin{array}{l}\\dfrac{{m - 2}}{{m - 1}} \\ge&nbsp; - 1\\\\\\dfrac{{m - 2}}{{m - 1}} \\le 0\\end{array} \\right. \\Leftrightarrow \\left\\{ \\begin{array}{l}\\left[ \\begin{array}{l}m \\ge \\dfrac{3}{2}\\\\m &lt; 1\\end{array} \\right.\\\\1 &lt; m \\le 2\\end{array} \\right. \\Leftrightarrow \\dfrac{3}{2} \\le m \\le 2\\) suy ra \\(m = 2\\)</p>\n<p>&nbsp;</p>"
+        }
+      ],
+      "note": [],
+      "group_id": "674ffed6bd608c5c9e873208",
+      "order": 1,
+      "sub_order": 1,
+      "idx": 202033,
+      "time_answer_question": 0
+    },
+    {
+      "_id": "674fff47bd608c5c9e87320b",
+      "chapter": {
+        "id": "674fc453af166c5c9ef00a31",
+        "name": "[ABCD] BPT hàm số mũ "
+      },
+      "parent": {
+        "id": ""
+      },
+      "question_style": {
+        "general": 1,
+        "mobile": 1
+      },
+      "content_type": 2,
+      "question_type": 1,
+      "difficult_degree": 2,
+      "question": {
+        "id": "2",
+        "content": [
+          {
+            "type": "html",
+            "content": "<p>Tập nghiệm của bất phương tr&igrave;nh \\({3^{3x + 1}} - 9 + {3^{x + 1}} - 9 \\cdot {3^{2x}} &gt; 0\\) l&agrave;</p>"
+          }
+        ],
+        "answers": [
+          {
+            "id": "3",
+            "text": [
+              {
+                "type": "html",
+                "content": "<p>\\(( - \\infty ;1).\\)</p>"
+              }
+            ],
+            "answer_key": "a",
+            "correct": false,
+            "question": "2"
+          },
+          {
+            "id": "4",
+            "text": [
+              {
+                "type": "html",
+                "content": "<p>\\((3; + \\infty ).\\)</p>"
+              }
+            ],
+            "answer_key": "b",
+            "correct": false,
+            "question": "2"
+          },
+          {
+            "id": "5",
+            "text": [
+              {
+                "type": "html",
+                "content": "<p>\\(( - \\infty ;3).\\)</p>"
+              }
+            ],
+            "answer_key": "c",
+            "correct": false,
+            "question": "2"
+          },
+          {
+            "id": "6",
+            "text": [
+              {
+                "type": "html",
+                "content": "<p>\\((1; + \\infty ).\\)</p>"
+              }
+            ],
+            "answer_key": "d",
+            "correct": true,
+            "question": "2"
+          }
+        ],
+        "quiz": "1"
+      },
+      "solution_suggesstion": [
+        {
+          "type": "html",
+          "content": "<p>Đặt ẩn v&agrave; giải bất phương tr&igrave;nh bậc 3.</p>"
+        }
+      ],
+      "related_lesson": [],
+      "solution_detail": [
+        {
+          "type": "html",
+          "content": "<p>Ta c&oacute;: \\({3^{3x + 1}} - 9 + {3^{x + 1}} - 9 \\cdot {3^{2x}} &gt; 0\\)\\( \\Leftrightarrow 3 \\cdot {3^{3x}} - 9 + 3 \\cdot {3^x} - 9 \\cdot {3^{2x}} &gt; 0\\).</p>\n<p>Đặt \\({3^x} = t\\) \\((t &gt; 0).\\)</p>\n<p>Khi đ&oacute; bất phương tr&igrave;nh trở th&agrave;nh: \\(3{t^3} - 9 + 3t - 9{t^2} &gt; 0\\)</p>\n<p>\\( \\Leftrightarrow 3{t^2}\\left( {t - 3} \\right) + 3(t - 3) &gt; 0\\)</p>\n<p>\\( \\Leftrightarrow (3{t^2} + 3) \\cdot (t - 3) &gt; 0\\)</p>\n<p>\\( \\Leftrightarrow t - 3 &gt; 0\\) \\( \\Leftrightarrow t &gt; 3\\)</p>\n<p>Suy ra \\({3^x} &gt; 3 \\Leftrightarrow x &gt; 1\\)</p>"
+        }
+      ],
+      "note": [],
+      "group_id": "674fff47bd608c5c9e87320d",
+      "order": 1,
+      "sub_order": 1,
+      "idx": 202034,
+      "time_answer_question": 0
+    },
+    {
+      "_id": "674fffc0bd608c5c9e873211",
+      "chapter": {
+        "id": "674fc438af166c5c9ef00a2f",
+        "name": "[ABCD] Phương trình logarit"
+      },
+      "parent": {
+        "id": ""
+      },
+      "question_style": {
+        "general": 1,
+        "mobile": 1
+      },
+      "content_type": 2,
+      "question_type": 1,
+      "difficult_degree": 3,
+      "question": {
+        "id": "2",
+        "content": [
+          {
+            "type": "html",
+            "content": "<p>Cho phương tr&igrave;nh \\({\\log _4}{(x + 1)^2} + 2 = {\\log _{\\sqrt 2 }}\\sqrt {4 - x}&nbsp; + {\\log _8}{(4 + x)^3}\\). Tổng c&aacute;c nghiệm của phương tr&igrave;nh l&agrave;</p>"
+          }
+        ],
+        "answers": [
+          {
+            "id": "3",
+            "text": [
+              {
+                "type": "html",
+                "content": "<p>\\(4 + 2\\sqrt 6 .\\)</p>"
+              }
+            ],
+            "answer_key": "a",
+            "correct": false,
+            "question": "2"
+          },
+          {
+            "id": "4",
+            "text": [
+              {
+                "type": "html",
+                "content": "<p>\\( - 4.\\)</p>"
+              }
+            ],
+            "answer_key": "b",
+            "correct": false,
+            "question": "2"
+          },
+          {
+            "id": "5",
+            "text": [
+              {
+                "type": "html",
+                "content": "<p>\\(4 - 2\\sqrt 6 .\\)</p>"
+              }
+            ],
+            "answer_key": "c",
+            "correct": true,
+            "question": "2"
+          },
+          {
+            "id": "6",
+            "text": [
+              {
+                "type": "html",
+                "content": "<p>\\(2 - 2\\sqrt 3 .\\)</p>"
+              }
+            ],
+            "answer_key": "d",
+            "correct": false,
+            "question": "2"
+          }
+        ],
+        "quiz": "1"
+      },
+      "solution_suggesstion": [
+        {
+          "type": "html",
+          "content": "<p>Giải phương tr&igrave;nh logarit.</p>"
+        }
+      ],
+      "related_lesson": [],
+      "solution_detail": [
+        {
+          "type": "html",
+          "content": "<p>\\(\\left\\{ \\begin{array}{l}{(x + 1)^2} &gt; 0\\\\4 - x &gt; 0\\\\4 + x &gt; 0\\end{array} \\right. \\Rightarrow \\left\\{ \\begin{array}{l}x \\ne&nbsp; - 1\\\\ - 4 &lt; x &lt; 4\\end{array} \\right..\\)</p>\n<p>Ta c&oacute; : \\({\\log _4}{(x + 1)^2} + 2 = {\\log _{\\sqrt 2 }}\\sqrt {4 - x}&nbsp; + {\\log _8}{(4 + x)^3}\\)\\( \\Leftrightarrow {\\log _2}\\left| {x + 1} \\right| + {\\log _2}4 = {\\log _2}(4 - x) + {\\log _2}(4 + x)\\)</p>\n<p>\\( \\Leftrightarrow {\\log _2}4 \\cdot \\left| {x + 1} \\right| = {\\log _2}(16 - {x^2}) \\Leftrightarrow 4\\left| {x + 1} \\right| = 16 - {x^2} \\Leftrightarrow \\left[ \\begin{array}{l}4(x + 1) = 16 - {x^2}\\\\4(x + 1) =&nbsp; - (16 - {x^2})\\end{array} \\right. \\Leftrightarrow \\left[ \\begin{array}{l}{x^2} + 4x - 12 = 0\\\\{x^2} - 4x - 20 = 0\\end{array} \\right.\\)<strong>.</strong></p>\n<p>\\( \\Leftrightarrow \\left[ \\begin{array}{l}x = 2\\\\x =&nbsp; - 6\\\\x = 2 + 2\\sqrt 6 \\\\x = 2 - 2\\sqrt 6 \\end{array} \\right..\\)</p>\n<p>Kết hợp với điều kiện ta c&oacute; 2 nghiệm thỏa m&atilde;n \\(x = 2;x = 2 - 2\\sqrt 6 .\\)</p>\n<p>Vậy tổng c&aacute;c nghiệm l&agrave; \\(4 - 2\\sqrt 6 .\\)</p>"
+        }
+      ],
+      "note": [],
+      "group_id": "674fffc0bd608c5c9e873213",
+      "order": 1,
+      "sub_order": 1,
+      "idx": 202035,
+      "time_answer_question": 0
+    },
+    {
+      "_id": "6750005cbd608c5c9e873216",
+      "chapter": {
+        "id": "674fcf3caf166c5c9ef00ab1",
+        "name": "[ABCD] Đạo hàm "
+      },
+      "parent": {
+        "id": ""
+      },
+      "question_style": {
+        "general": 1,
+        "mobile": 1
+      },
+      "content_type": 2,
+      "question_type": 1,
+      "difficult_degree": 2,
+      "question": {
+        "id": "2",
+        "content": [
+          {
+            "type": "html",
+            "content": "<p>T&iacute;nh đạo h&agrave;m của h&agrave;m số \\(f(x) = x\\left( {x - 1} \\right)\\left( {x - 2} \\right) \\cdot&nbsp; \\cdot&nbsp; \\cdot \\left( {x - 2025} \\right)\\) tại điểm \\(x = 0\\)?</p>"
+          }
+        ],
+        "answers": [
+          {
+            "id": "3",
+            "text": [
+              {
+                "type": "html",
+                "content": "<p>\\(f'\\left( 0 \\right) = 0.\\)</p>"
+              }
+            ],
+            "answer_key": "a",
+            "correct": false,
+            "question": "2"
+          },
+          {
+            "id": "4",
+            "text": [
+              {
+                "type": "html",
+                "content": "<p>\\(f'\\left( 0 \\right) = 2025!.\\)</p>"
+              }
+            ],
+            "answer_key": "b",
+            "correct": false,
+            "question": "2"
+          },
+          {
+            "id": "5",
+            "text": [
+              {
+                "type": "html",
+                "content": "<p>\\(f'\\left( 0 \\right) = 2025.\\)</p>"
+              }
+            ],
+            "answer_key": "c",
+            "correct": false,
+            "question": "2"
+          },
+          {
+            "id": "6",
+            "text": [
+              {
+                "type": "html",
+                "content": "<p>\\(f'\\left( 0 \\right) =&nbsp; - 2025!.\\)</p>"
+              }
+            ],
+            "answer_key": "d",
+            "correct": true,
+            "question": "2"
+          }
+        ],
+        "quiz": "1"
+      },
+      "solution_suggesstion": [
+        {
+          "type": "html",
+          "content": "<p>C&ocirc;ng thức đạo h&agrave;m.</p>"
+        }
+      ],
+      "related_lesson": [],
+      "solution_detail": [
+        {
+          "type": "html",
+          "content": "<p>\\(f(x) = x \\cdot \\left[ {\\left( {x - 1} \\right)\\left( {x - 2} \\right) \\cdot&nbsp; \\cdot&nbsp; \\cdot \\left( {x - 2025} \\right)} \\right]\\)</p>\n<p>Khi đ&oacute; ta c&oacute;: \\({f'}(x) = \\left( {x - 1} \\right)\\left( {x - 2} \\right) \\cdot&nbsp; \\cdot&nbsp; \\cdot \\left( {x - 2025} \\right) + x{\\left[ {\\left( {x - 1} \\right)\\left( {x - 2} \\right) \\cdot&nbsp; \\cdot&nbsp; \\cdot \\left( {x - 2025} \\right)} \\right]'}\\)</p>\n<p>\\(f(0) = ( - 1)( - 2) \\cdot&nbsp; \\cdot&nbsp; \\cdot ( - 2025) =&nbsp; - 1 \\cdot 2 \\cdot&nbsp; \\cdot&nbsp; \\cdot 2025 =&nbsp; - 2025!\\)</p>"
+        }
+      ],
+      "note": [],
+      "group_id": "6750005cbd608c5c9e873218",
+      "order": 1,
+      "sub_order": 1,
+      "idx": 202036,
+      "time_answer_question": 0
+    },
+    {
+      "_id": "675000cdbd608c5c9e87321b",
+      "chapter": {
+        "id": "674fc1c6af166c5c9ef00a1b",
+        "name": "[ABCD] Tiếp tuyến"
+      },
+      "parent": {
+        "id": ""
+      },
+      "question_style": {
+        "general": 1,
+        "mobile": 1
+      },
+      "content_type": 2,
+      "question_type": 1,
+      "difficult_degree": 2,
+      "question": {
+        "id": "2",
+        "content": [
+          {
+            "type": "html",
+            "content": "<p>T&igrave;m \\(m\\) để mọi tiếp tuyến của đồ thị h&agrave;m số \\(y = {x^3} - m{x^2} + (2m - 3)x - 1\\) đều c&oacute; hệ số g&oacute;c dương.</p>"
+          }
+        ],
+        "answers": [
+          {
+            "id": "3",
+            "text": [
+              {
+                "type": "html",
+                "content": "<p>\\(m \\ne 0.\\)</p>"
+              }
+            ],
+            "answer_key": "a",
+            "correct": false,
+            "question": "2"
+          },
+          {
+            "id": "4",
+            "text": [
+              {
+                "type": "html",
+                "content": "<p>\\(m &gt; 1.\\)</p>"
+              }
+            ],
+            "answer_key": "b",
+            "correct": false,
+            "question": "2"
+          },
+          {
+            "id": "5",
+            "text": [
+              {
+                "type": "html",
+                "content": "<p>\\(m \\ne 1.\\)</p>"
+              }
+            ],
+            "answer_key": "c",
+            "correct": false,
+            "question": "2"
+          },
+          {
+            "id": "6",
+            "text": [
+              {
+                "type": "html",
+                "content": "<p>\\(m \\in \\emptyset .\\)</p>"
+              }
+            ],
+            "answer_key": "d",
+            "correct": true,
+            "question": "2"
+          }
+        ],
+        "quiz": "1"
+      },
+      "solution_suggesstion": [
+        {
+          "type": "html",
+          "content": "<p>T&igrave;m phương tr&igrave;nh tiếp tuyến.</p>"
+        }
+      ],
+      "related_lesson": [],
+      "solution_detail": [
+        {
+          "type": "html",
+          "content": "<p>Hệ số g&oacute;c tiếp tuyến của đồ thị h&agrave;m số \\(y = {x^3} - m{x^2} + (2m - 3)x - 1\\) l&agrave; \\(y' = 3{x^2} - 2mx + 2m - 3.\\)</p>\n<p>V&igrave; hệ số g&oacute;c dương với mọi \\(x\\) n&ecirc;n ta c&oacute;</p>\n<p>\\(y' = 3{x^2} - 2mx + 2m - 3 &gt; 0 \\Leftrightarrow \\left\\{ \\begin{array}{l}a = 3 &gt; 0\\\\\\Delta ' &lt; 0\\end{array} \\right. \\Leftrightarrow {m^2} - 6m + 9 &lt; 0 \\Leftrightarrow {(m - 3)^2} &lt; 0 \\Rightarrow m \\in \\emptyset .\\)</p>"
+        }
+      ],
+      "note": [],
+      "group_id": "675000cdbd608c5c9e87321d",
+      "order": 1,
+      "sub_order": 1,
+      "idx": 202037,
+      "time_answer_question": 0
+    },
+    {
+      "_id": "6750013dbd608c5c9e873220",
+      "chapter": {
+        "id": "674fc750af166c5c9ef00a53",
+        "name": "[ABCD] Bài toán xác định và tính góc "
+      },
+      "parent": {
+        "id": ""
+      },
+      "question_style": {
+        "general": 1,
+        "mobile": 1
+      },
+      "content_type": 2,
+      "question_type": 1,
+      "difficult_degree": 2,
+      "question": {
+        "id": "2",
+        "content": [
+          {
+            "type": "html",
+            "content": "<p>Cho tứ diện \\(ABCD\\) c&oacute; \\(AB = CD = 2a.\\) Gọi \\(MN\\) lần lượt l&agrave; trung điểm của \\(AD\\) v&agrave; \\(BC\\). Biết \\(MN = a\\sqrt 3 ,\\) g&oacute;c giữa hai đường thẳng \\(AB\\) v&agrave; \\(CD\\) bằng.</p>"
+          }
+        ],
+        "answers": [
+          {
+            "id": "3",
+            "text": [
+              {
+                "type": "html",
+                "content": "<p>\\({45^o}.\\)</p>"
+              }
+            ],
+            "answer_key": "a",
+            "correct": false,
+            "question": "2"
+          },
+          {
+            "id": "4",
+            "text": [
+              {
+                "type": "html",
+                "content": "<p>\\({60^o}.\\)</p>"
+              }
+            ],
+            "answer_key": "b",
+            "correct": true,
+            "question": "2"
+          },
+          {
+            "id": "5",
+            "text": [
+              {
+                "type": "html",
+                "content": "<p>\\({90^o}.\\)</p>"
+              }
+            ],
+            "answer_key": "c",
+            "correct": false,
+            "question": "2"
+          },
+          {
+            "id": "6",
+            "text": [
+              {
+                "type": "html",
+                "content": "<p>\\({30^o}.\\)</p>"
+              }
+            ],
+            "answer_key": "d",
+            "correct": false,
+            "question": "2"
+          }
+        ],
+        "quiz": "1"
+      },
+      "solution_suggesstion": [
+        {
+          "type": "html",
+          "content": "<p>T&iacute;nh g&oacute;c giữa hai đường thẳng ch&eacute;o nhau</p>"
+        }
+      ],
+      "related_lesson": [],
+      "solution_detail": [
+        {
+          "type": "html",
+          "content": "<p><img src=\"https://cdn.vungoi.vn/vungoi/2024/1204/1733296416649_mceclip0.png\" /></p>\n<p>Gọi \\(P\\) l&agrave; trung điểm \\(AC\\),</p>\n<p>Ta c&oacute;: \\(\\left\\{ \\begin{array}{l}PM//CD\\\\PN//AB\\end{array} \\right. \\Rightarrow \\left( {\\widehat {AB,CD}} \\right) = \\left( {\\widehat {PM,PN}} \\right).\\)</p>\n<p>Lại c&oacute; \\(PM = PN = a.\\)</p>\n<p>X&eacute;t tam gi&aacute;c \\(PMN\\) ta c&oacute; \\(\\cos \\widehat {MPN} = \\dfrac{{P{M^2} + P{N^2} - M{N^2}}}{{2 \\cdot PM \\cdot PN}} = \\dfrac{{{a^2} + {a^2} - 3{a^2}}}{{2 \\cdot a \\cdot a}} =&nbsp; - \\dfrac{1}{2}.\\)</p>\n<p>\\( \\Rightarrow \\widehat {MPN} = {120^o} \\Rightarrow \\left( {\\widehat {AB,CD}} \\right) = {180^o} - {120^o} = {60^o}.\\)</p>"
+        }
+      ],
+      "note": [],
+      "group_id": "6750013dbd608c5c9e873222",
+      "order": 1,
+      "sub_order": 1,
+      "idx": 202038,
+      "time_answer_question": 0
+    },
+    {
+      "_id": "67500272bd608c5c9e873225",
+      "chapter": {
+        "id": "674fc735af166c5c9ef00a51",
+        "name": "[ABCD] Bài toán khoảng cách "
+      },
+      "parent": {
+        "id": ""
+      },
+      "question_style": {
+        "general": 1,
+        "mobile": 1
+      },
+      "content_type": 2,
+      "question_type": 1,
+      "difficult_degree": 3,
+      "question": {
+        "id": "2",
+        "content": [
+          {
+            "type": "html",
+            "content": "<p>Cho h&igrave;nh ch&oacute;p \\(S.ABC\\) c&oacute; đ&aacute;y l&agrave; tam gi&aacute;c vu&ocirc;ng tại \\(A\\), \\(AC = a\\), \\(I\\) l&agrave; trung điểm của \\(SC\\). H&igrave;nh chiếu vu&ocirc;ng g&oacute;c của \\(S\\) l&ecirc;n \\((ABC)\\) l&agrave; trung điểm \\(H\\) của \\(BC\\). Mặt phẳng \\((SAB)\\) tạo với mặt phẳng \\((ABC)\\) một g&oacute;c \\({60^o}\\). T&iacute;nh khoảng c&aacute;ch từ \\(I\\) đến mặt phẳng \\((SAB).\\)</p>"
+          }
+        ],
+        "answers": [
+          {
+            "id": "3",
+            "text": [
+              {
+                "type": "html",
+                "content": "<p>\\(\\dfrac{{\\sqrt 3 }}{4}a.\\)</p>"
+              }
+            ],
+            "answer_key": "a",
+            "correct": true,
+            "question": "2"
+          },
+          {
+            "id": "4",
+            "text": [
+              {
+                "type": "html",
+                "content": "<p>\\(\\dfrac{{\\sqrt 3 }}{5}a.\\)<strong><br /><br /></strong></p>"
+              }
+            ],
+            "answer_key": "b",
+            "correct": false,
+            "question": "2"
+          },
+          {
+            "id": "5",
+            "text": [
+              {
+                "type": "html",
+                "content": "<p>\\(\\dfrac{{\\sqrt 5 }}{4}a.\\)</p>"
+              }
+            ],
+            "answer_key": "c",
+            "correct": false,
+            "question": "2"
+          },
+          {
+            "id": "6",
+            "text": [
+              {
+                "type": "html",
+                "content": "<p>\\(\\dfrac{{\\sqrt 2 }}{3}a.\\)</p>"
+              }
+            ],
+            "answer_key": "d",
+            "correct": false,
+            "question": "2"
+          }
+        ],
+        "quiz": "1"
+      },
+      "solution_suggesstion": [
+        {
+          "type": "html",
+          "content": "<p>T&iacute;nh khoảng c&aacute;ch từ một điểm đến một mặt phẳng.</p>"
+        }
+      ],
+      "related_lesson": [],
+      "solution_detail": [
+        {
+          "type": "html",
+          "content": "<p><img src=\"https://cdn.vungoi.vn/vungoi/2024/1204/1733296516771_mceclip0.png\" /></p>\n<p>Gọi \\(M\\) l&agrave; trung điểm cạnh \\(AB\\) th&igrave; \\(HM\\) l&agrave; đường trung b&igrave;nh của tam gi&aacute;c \\(ABC\\) n&ecirc;n \\(\\left\\{ \\begin{array}{l}MH//AC\\\\MH = \\dfrac{1}{2}a\\end{array} \\right. \\Rightarrow MH \\bot AB.\\)</p>\n<p>Mặt kh&aacute;c, do \\(SH \\bot (ABC) \\Rightarrow (SMH) \\bot BC\\)</p>\n<p>Suy ra g&oacute;c giữa \\((SAB)\\) v&agrave; \\((ABC)\\) l&agrave; g&oacute;c giữa \\(SM\\) v&agrave; \\(MH\\).</p>\n<p>Lại c&oacute; \\(SH \\bot MN\\) suy ra \\(\\left( {\\widehat {SM,MH}} \\right) = \\widehat {SMH}.\\) Từ giả thiết n&agrave;y suy ra \\(\\widehat {SMH} = {60^o}.\\)</p>\n<p>Gọi \\(K\\) l&agrave; h&igrave;nh chiếu của \\(H\\) l&ecirc;n \\(SM\\) th&igrave; \\(HK \\bot (SAB).\\)</p>\n<p>X&eacute;t tam gi&aacute;c vu&ocirc;ng \\(SMH\\) c&oacute;: \\(MH = \\dfrac{1}{2}a;SH = MH.\\tan {60^o} = \\dfrac{{\\sqrt 3 }}{2}a \\Rightarrow HK = \\dfrac{{\\sqrt 3 }}{4}a.\\)</p>\n<p>Ta c&oacute; \\(HI\\) l&agrave; đường trung b&igrave;nh của tam gi&aacute;c \\(SBC\\) n&ecirc;n \\(HI//SB \\Rightarrow HI//(SAB).\\)</p>\n<p>\\( \\Rightarrow d\\left( {I,(SAB)} \\right) = d(H,(SAB)) = \\dfrac{{\\sqrt 3 }}{4}a.\\)</p>"
+        }
+      ],
+      "note": [],
+      "group_id": "67500272bd608c5c9e873227",
+      "order": 1,
+      "sub_order": 1,
+      "idx": 202039,
+      "time_answer_question": 0
+    },
+    {
+      "_id": "67500421bd608c5c9e87322a",
+      "chapter": {
+        "id": "674fc735af166c5c9ef00a51",
+        "name": "[ABCD] Bài toán khoảng cách "
+      },
+      "parent": {
+        "id": ""
+      },
+      "question_style": {
+        "general": 1,
+        "mobile": 1
+      },
+      "content_type": 2,
+      "question_type": 1,
+      "difficult_degree": 3,
+      "question": {
+        "id": "2",
+        "content": [
+          {
+            "type": "html",
+            "content": "<p>Cho h&igrave;nh ch&oacute;p đều \\(S.ABCD\\) c&oacute; đ&aacute;y \\(ABCD\\) l&agrave; h&igrave;nh vu&ocirc;ng cạnh \\(a\\sqrt 2 .\\) Biết rằng b&aacute;n k&iacute;nh mặt cầu ngoại tiếp h&igrave;nh ch&oacute;p bằng \\(\\dfrac{{9\\sqrt 2 }}{8}a\\), độ d&agrave;i cạnh b&ecirc;n lớn hơn độ d&agrave;i cạnh đ&aacute;y. Khoảng c&aacute;ch giữa hai đường thẳng \\(AB\\) v&agrave; \\(SD\\) bằng</p>"
+          }
+        ],
+        "answers": [
+          {
+            "id": "3",
+            "text": [
+              {
+                "type": "html",
+                "content": "<p>\\(\\dfrac{{4\\sqrt {34} }}{{17}}a.\\)</p>"
+              }
+            ],
+            "answer_key": "a",
+            "correct": true,
+            "question": "2"
+          },
+          {
+            "id": "4",
+            "text": [
+              {
+                "type": "html",
+                "content": "<p>\\(\\dfrac{{4\\sqrt {14} }}{{17}}a.\\)</p>"
+              }
+            ],
+            "answer_key": "b",
+            "correct": false,
+            "question": "2"
+          },
+          {
+            "id": "5",
+            "text": [
+              {
+                "type": "html",
+                "content": "<p>\\(\\dfrac{{2\\sqrt {34} }}{{17}}a.\\)</p>"
+              }
+            ],
+            "answer_key": "c",
+            "correct": false,
+            "question": "2"
+          },
+          {
+            "id": "6",
+            "text": [
+              {
+                "type": "html",
+                "content": "<p>\\(\\dfrac{{2\\sqrt {14} }}{{17}}a.\\)</p>"
+              }
+            ],
+            "answer_key": "d",
+            "correct": false,
+            "question": "2"
+          }
+        ],
+        "quiz": "1"
+      },
+      "solution_suggesstion": [
+        {
+          "type": "html",
+          "content": "<p>T&igrave;m khoảng c&aacute;ch giữa hai đường thẳng ch&eacute;o nhau.</p>"
+        }
+      ],
+      "related_lesson": [],
+      "solution_detail": [
+        {
+          "type": "html",
+          "content": "<p><img src=\"https://cdn.vungoi.vn/vungoi/2024/1204/1733296839774_mceclip0.png\" /></p>\n<p>Gọi \\(O = AC \\cap BD,\\) \\(M\\) l&agrave; trung điểm của \\(SC.\\)</p>\n<p>Trong tam gi&aacute;c \\(SAC\\), dựng đường trung trực của đoạn thẳng \\(SC\\) tại \\(I\\), \\(I\\) l&agrave; t&acirc;m mặt cầu ngoại tiếp h&igrave;nh ch&oacute;p \\(S.ABCD\\) c&oacute; b&aacute;n k&iacute;nh \\(R = SI = \\dfrac{{9\\sqrt 2 }}{8}a.\\)</p>\n<p>V&igrave; độ d&agrave;i cạnh b&ecirc;n lớn hơn độ d&agrave;i cạnh đ&aacute;y n&ecirc;n t&acirc;m \\(I\\) của mặt cầu ngoại tiếp h&igrave;nh ch&oacute;p thuộc đoạn \\(SO.\\)</p>\n<p>Ta họi \\(x\\) l&agrave; dộ d&agrave;i cạnh b&ecirc;n của h&igrave;nh ch&oacute;p.</p>\n<p>Ta dễ thấy \\(\\Delta SOC\\) đồng dạng với \\(\\Delta SMI\\).</p>\n<p>Suy ra \\(\\dfrac{{SI}}{{SC}} = \\dfrac{{SM}}{{SO}} \\Leftrightarrow \\dfrac{{\\dfrac{{9\\sqrt 2 }}{8}a}}{x} = \\dfrac{{\\dfrac{x}{2}}}{{\\sqrt {{x^2} - {a^2}} }} \\Leftrightarrow 9a\\sqrt {{x^2} - {a^2}}&nbsp; = 2\\sqrt 2 {x^2} \\Leftrightarrow 81{a^2}({x^2} - {a^2}) = 8{a^4}\\)</p>\n<p>\\( \\Leftrightarrow 8{a^4} - 81{a^2}{x^2} + 81{a^4} = 0 \\Leftrightarrow \\left[ \\begin{array}{l}{\\left( {\\dfrac{x}{a}} \\right)^2} = 9\\\\{\\left( {\\dfrac{x}{a}} \\right)^2} = \\dfrac{9}{8}\\end{array} \\right..\\)</p>\n<p>&nbsp;</p>\n<p>\\({\\left( {\\dfrac{x}{a}} \\right)^2} = \\dfrac{9}{8}\\) kh&ocirc;ng thỏa m&atilde;n v&igrave; \\(x &lt; a\\sqrt 2 .\\)</p>\n<p>\\({\\left( {\\dfrac{x}{a}} \\right)^2} = 9 \\Leftrightarrow x = 3a.\\) Suy ra \\(SO = {(3a)^2} - {a^2} = 8{a^2}.\\)</p>\n<p>Ta c&oacute; : \\(d(AB;SD) = d(AB;(SCD)) = d(A;(SCD)) = 2d(O;(SCD)).\\)</p>\n<p>Gọi \\(E\\) l&agrave; trung điểm của \\(CD\\), kẻ \\(OH \\bot SE\\), khi đ&oacute; \\(d(O;(SCD)) = OH.\\)</p>\n<p>\\(\\dfrac{1}{{O{H^2}}} = \\dfrac{1}{{S{O^2}}} + \\dfrac{1}{{E{O^2}}} = \\dfrac{1}{{8{a^2}}} + \\dfrac{2}{{{a^2}}} \\Rightarrow OH = \\dfrac{{2\\sqrt 2 }}{{17}}.\\)</p>\n<p>Suy ra \\(d(AB;CD) = 2OH = \\dfrac{{4\\sqrt {34} }}{{17}}a.\\)</p>"
+        }
+      ],
+      "note": [],
+      "group_id": "67500421bd608c5c9e87322c",
+      "order": 2,
+      "sub_order": 1,
+      "idx": 202040,
+      "time_answer_question": 0
+    },
+    {
+      "_id": "67500485bd608c5c9e87322f",
+      "chapter": {
+        "id": "674fc685af166c5c9ef00a4d",
+        "name": "[ABCD] Thể tích "
+      },
+      "parent": {
+        "id": ""
+      },
+      "question_style": {
+        "general": 1,
+        "mobile": 1
+      },
+      "content_type": 2,
+      "question_type": 1,
+      "difficult_degree": 2,
+      "question": {
+        "id": "2",
+        "content": [
+          {
+            "type": "html",
+            "content": "<p>Cho h&igrave;nh lăng trụ đứng \\(ABC.A'B'C'\\) c&oacute; đ&aacute;y l&agrave; tam gi&aacute;c vu&ocirc;ng c&acirc;n tại \\(A\\), \\(AB = a,B'B = 2a\\). T&iacute;nh thể t&iacute;ch \\(V\\) của khối lăng trụ \\(ABC.A'B'C'\\)</p>"
+          }
+        ],
+        "answers": [
+          {
+            "id": "3",
+            "text": [
+              {
+                "type": "html",
+                "content": "<p>\\(\\dfrac{1}{2}{a^3}.\\)</p>"
+              }
+            ],
+            "answer_key": "a",
+            "correct": false,
+            "question": "2"
+          },
+          {
+            "id": "4",
+            "text": [
+              {
+                "type": "html",
+                "content": "<p>\\(\\dfrac{1}{3}{a^3}.\\)</p>"
+              }
+            ],
+            "answer_key": "b",
+            "correct": false,
+            "question": "2"
+          },
+          {
+            "id": "5",
+            "text": [
+              {
+                "type": "html",
+                "content": "<p>\\(\\dfrac{2}{3}{a^3}.\\)</p>"
+              }
+            ],
+            "answer_key": "c",
+            "correct": false,
+            "question": "2"
+          },
+          {
+            "id": "6",
+            "text": [
+              {
+                "type": "html",
+                "content": "<p>\\({a^3}.\\)</p>"
+              }
+            ],
+            "answer_key": "d",
+            "correct": true,
+            "question": "2"
+          }
+        ],
+        "quiz": "1"
+      },
+      "solution_suggesstion": [
+        {
+          "type": "html",
+          "content": "<p>T&iacute;nh thể t&iacute;ch khối lăng trụ.</p>"
+        }
+      ],
+      "related_lesson": [],
+      "solution_detail": [
+        {
+          "type": "html",
+          "content": "<p>\\({V_{ABC.A'B'C'}} = B'B \\cdot {S_{ABC}} = 2a \\cdot \\dfrac{1}{2}a \\cdot a = {a^3}.\\)</p>"
+        }
+      ],
+      "note": [],
+      "group_id": "67500485bd608c5c9e873231",
+      "order": 1,
+      "sub_order": 1,
+      "idx": 202041,
+      "time_answer_question": 0
+    },
+    {
+      "_id": "67500519bd608c5c9e873234",
+      "chapter": {
+        "id": "674fc767af166c5c9ef00a55",
+        "name": "[ABCD] Bài toán tỷ lệ "
+      },
+      "parent": {
+        "id": ""
+      },
+      "question_style": {
+        "general": 1,
+        "mobile": 1
+      },
+      "content_type": 2,
+      "question_type": 1,
+      "difficult_degree": 3,
+      "question": {
+        "id": "2",
+        "content": [
+          {
+            "type": "html",
+            "content": "<p>Cho h&igrave;nh ch&oacute;p \\(S.ABCD\\) c&oacute; đ&aacute;y \\(ABCD\\) l&agrave; h&igrave;nh chữ nhật. Mặt phẳng \\((\\alpha )\\) đi qua \\(A,B\\) v&agrave; \\(M\\) l&agrave; trung điểm của \\(SC\\). Mặt phẳng \\(\\left( \\alpha&nbsp; \\right)\\) chia khối ch&oacute;p đ&atilde; cho th&agrave;nh hai phần lần lượt c&oacute; thể t&iacute;ch l&agrave; \\({V_1},{V_2}\\) trong đ&oacute; \\({V_1} &lt; {V_2}\\). T&iacute;nh \\(\\dfrac{{{V_1}}}{{{V_2}}}.\\)</p>"
+          }
+        ],
+        "answers": [
+          {
+            "id": "3",
+            "text": [
+              {
+                "type": "html",
+                "content": "<p>\\(\\dfrac{{{V_1}}}{{{V_2}}} = \\dfrac{3}{5}.\\)</p>"
+              }
+            ],
+            "answer_key": "a",
+            "correct": true,
+            "question": "2"
+          },
+          {
+            "id": "4",
+            "text": [
+              {
+                "type": "html",
+                "content": "<p>\\(\\dfrac{{{V_1}}}{{{V_2}}} = \\dfrac{3}{8}.\\)</p>"
+              }
+            ],
+            "answer_key": "b",
+            "correct": false,
+            "question": "2"
+          },
+          {
+            "id": "5",
+            "text": [
+              {
+                "type": "html",
+                "content": "<p>\\(\\dfrac{{{V_1}}}{{{V_2}}} = \\dfrac{1}{4}.\\)</p>"
+              }
+            ],
+            "answer_key": "c",
+            "correct": false,
+            "question": "2"
+          },
+          {
+            "id": "6",
+            "text": [
+              {
+                "type": "html",
+                "content": "<p>\\(\\dfrac{{{V_1}}}{{{V_2}}} = \\dfrac{3}{4}.\\)</p>"
+              }
+            ],
+            "answer_key": "d",
+            "correct": false,
+            "question": "2"
+          }
+        ],
+        "quiz": "1"
+      },
+      "solution_suggesstion": [
+        {
+          "type": "html",
+          "content": "<p>Tỷ lệ thể t&iacute;ch.</p>"
+        }
+      ],
+      "related_lesson": [],
+      "solution_detail": [
+        {
+          "type": "html",
+          "content": "<p><img src=\"https://cdn.vungoi.vn/vungoi/2024/1204/1733297349546_mceclip0.png\" /></p>\n<p>Ta c&oacute; \\(\\left\\{ \\begin{array}{l}AB \\subset \\left( \\alpha&nbsp; \\right)\\\\AB//CD\\end{array} \\right. \\Rightarrow \\left( \\alpha&nbsp; \\right) \\cap (SCD) = MN//AB//CD.\\)</p>\n<p>Suy ra mặt phẳng \\((\\alpha )\\) cắt h&igrave;nh ch&oacute;p theo thiết diện h&igrave;nh thang \\(ABMN\\)</p>\n<p>Khi đ&oacute; \\((ABMN)\\) chia h&igrave;nh ch&oacute;p th&agrave;nh hai khối đa diện l&agrave; \\(S.ABMN\\) v&agrave; \\(ABCDMN\\) c&oacute; thể t&iacute;ch lần lượt l&agrave; \\({V_1}\\) v&agrave; \\({V_2}\\).</p>\n<p>Lại c&oacute;&nbsp;&nbsp; \\(\\dfrac{{{V_{SABM}}}}{{{V_{SABC}}}} = \\dfrac{1}{2} \\Rightarrow {V_{SABM}} = \\dfrac{1}{2}{V_{SABC}} = \\dfrac{1}{4}{V_{SABCD}}.\\) &nbsp;v&agrave; &nbsp;\\(\\dfrac{{{V_{SAMN}}}}{{{V_{SACD}}}} = \\dfrac{1}{4} \\Rightarrow {V_{SAMN}} = \\dfrac{1}{4}{V_{SABC}} = \\dfrac{1}{8}{V_{SABCD}}.\\)</p>\n<p>M&agrave; \\({V_1} = {V_{SABM}} + {V_{SAMN}} = \\dfrac{3}{8}{V_{SABCD}},\\)&nbsp; \\({V_2} = {V_{SABCD}} - {V_{SABMN}} = \\dfrac{5}{8}{V_{SABCD}}.\\)</p>\n<p>Vậy \\(\\dfrac{{{V_1}}}{{{V_2}}} = \\dfrac{3}{5}.\\)</p>"
+        }
+      ],
+      "note": [],
+      "group_id": "67500519bd608c5c9e873236",
+      "order": 1,
+      "sub_order": 1,
+      "idx": 202042,
+      "time_answer_question": 0
+    },
+    {
+      "_id": "6750076cbd608c5c9e87323b",
+      "chapter": {
+        "id": "674fc023af166c5c9ef00a05",
+        "name": "[ABCD] Mẫu số liệu ghép nhóm"
+      },
+      "parent": {
+        "id": ""
+      },
+      "question_style": {
+        "general": 1,
+        "mobile": 1
+      },
+      "content_type": 2,
+      "question_type": 1,
+      "difficult_degree": 1,
+      "question": {
+        "id": "2",
+        "content": [
+          {
+            "type": "html",
+            "content": "<p>Khảo s&aacute;t thời gian chơi game của một số học sinh khối 10 thu được mẫu số liệu gh&eacute;p nh&oacute;m sau:</p>\n<p><img src=\"https://cdn.vungoi.vn/vungoi/2024/1204/1733297691222_mceclip0.png\" /></p>\n<p>Mốt của mẫu số liệu tr&ecirc;n l&agrave;:</p>"
+          }
+        ],
+        "answers": [
+          {
+            "id": "3",
+            "text": [
+              {
+                "type": "html",
+                "content": "<p>\\(42.\\)</p>"
+              }
+            ],
+            "answer_key": "a",
+            "correct": false,
+            "question": "2"
+          },
+          {
+            "id": "4",
+            "text": [
+              {
+                "type": "html",
+                "content": "<p>\\(52.\\)</p>"
+              }
+            ],
+            "answer_key": "b",
+            "correct": true,
+            "question": "2"
+          },
+          {
+            "id": "5",
+            "text": [
+              {
+                "type": "html",
+                "content": "<p>\\(53.\\)</p>"
+              }
+            ],
+            "answer_key": "c",
+            "correct": false,
+            "question": "2"
+          },
+          {
+            "id": "6",
+            "text": [
+              {
+                "type": "html",
+                "content": "<p>\\(54.\\)</p>"
+              }
+            ],
+            "answer_key": "d",
+            "correct": false,
+            "question": "2"
+          }
+        ],
+        "quiz": "1"
+      },
+      "solution_suggesstion": [
+        {
+          "type": "html",
+          "content": "<p>C&ocirc;ng thức t&igrave;m mốt.</p>"
+        }
+      ],
+      "related_lesson": [],
+      "solution_detail": [
+        {
+          "type": "html",
+          "content": "<p>Mốt \\({M_0}\\) chưa trong nh&oacute;m \\(\\left[ {40;60} \\right)\\).</p>\n<p>Do đ&oacute;: \\({u_m} = 40;{u_{m + 1}} = 60 \\Rightarrow {u_{m + 1}} - {u_m} = 60 - 40 = 20.\\)</p>\n<p>\\({M_0} = 40 + \\dfrac{{12 - 9}}{{(12 - 9) + (12 - 10)}} \\cdot 20 = 52.\\)</p>"
+        }
+      ],
+      "note": [],
+      "group_id": "6750076cbd608c5c9e87323d",
+      "order": 1,
+      "sub_order": 1,
+      "idx": 202043,
+      "time_answer_question": 0
+    },
+    {
+      "_id": "67500935bd608c5c9e8732ae",
+      "chapter": {
+        "id": "674fcaabaf166c5c9ef00a8a",
+        "name": "[ABCD] Quy tắc & công thức tính xác suất"
+      },
+      "parent": {
+        "id": ""
+      },
+      "question_style": {
+        "general": 1,
+        "mobile": 1
+      },
+      "content_type": 2,
+      "question_type": 1,
+      "difficult_degree": 2,
+      "question": {
+        "id": "2",
+        "content": [
+          {
+            "type": "html",
+            "content": "<p>Cho \\(A\\) v&agrave; \\(B\\) l&agrave; hai biến cố độc lập. Biết \\(P(\\overline A ) = 0,4\\) v&agrave; \\(P(B) = 0,3\\). T&iacute;nh x&aacute;c suất của biến cố \\(AB\\).</p>"
+          }
+        ],
+        "answers": [
+          {
+            "id": "3",
+            "text": [
+              {
+                "type": "html",
+                "content": "<p>\\(0,4.\\)</p>"
+              }
+            ],
+            "answer_key": "a",
+            "correct": false,
+            "question": "2"
+          },
+          {
+            "id": "4",
+            "text": [
+              {
+                "type": "html",
+                "content": "<p>\\(0,18.\\)</p>"
+              }
+            ],
+            "answer_key": "b",
+            "correct": true,
+            "question": "2"
+          },
+          {
+            "id": "5",
+            "text": [
+              {
+                "type": "html",
+                "content": "<p>\\(0,12.\\)</p>"
+              }
+            ],
+            "answer_key": "c",
+            "correct": false,
+            "question": "2"
+          },
+          {
+            "id": "6",
+            "text": [
+              {
+                "type": "html",
+                "content": "<p>\\(0,15.\\)</p>"
+              }
+            ],
+            "answer_key": "d",
+            "correct": false,
+            "question": "2"
+          }
+        ],
+        "quiz": "1"
+      },
+      "solution_suggesstion": [
+        {
+          "type": "html",
+          "content": "<p>C&ocirc;ng thức nh&acirc;n biến cố độc lập.</p>"
+        }
+      ],
+      "related_lesson": [],
+      "solution_detail": [
+        {
+          "type": "html",
+          "content": "<p>Ta c&oacute;: \\(P(A) = 1 - 0,4 = 0,6.\\) Suy ra \\(P(AB) = P(A) \\cdot P(B) = 0,6 \\cdot 0,3 = 0,18.\\)</p>"
+        }
+      ],
+      "note": [],
+      "group_id": "67500935bd608c5c9e8732b0",
+      "order": 1,
+      "sub_order": 1,
+      "idx": 202066,
+      "time_answer_question": 0
+    },
+    {
+      "_id": "67500980bd608c5c9e8732b3",
+      "chapter": {
+        "id": "674fca17af166c5c9ef00a87",
+        "name": "[ABCD] Xác suất cổ điển "
+      },
+      "parent": {
+        "id": ""
+      },
+      "question_style": {
+        "general": 1,
+        "mobile": 1
+      },
+      "content_type": 2,
+      "question_type": 1,
+      "difficult_degree": 3,
+      "question": {
+        "id": "2",
+        "content": [
+          {
+            "type": "html",
+            "content": "<p>Một học sinh l&agrave;m b&agrave;i kiểm tra m&ocirc;n To&aacute;n gồm \\(50\\) c&acirc;u trắc nghiệm chọn một đ&aacute;p &aacute;n. Bạn đ&oacute; đ&atilde; l&agrave;m được chắc chắn đ&uacute;ng \\(42\\) c&acirc;u. Trong 8 c&acirc;u c&ograve;n lại chỉ c&oacute; 3 c&acirc;u bạn loại trừ được mỗi c&acirc;u một chọn chắc chắn sai. Do đ&oacute; kh&ocirc;ng đủ thời gian n&ecirc;n bạn bắt buộc phải khoanh bừa c&aacute;c c&acirc;u c&ograve;n lại. X&aacute;c suất bạn đ&oacute; được \\(9,4\\) điểm l&agrave;</p>"
+          }
+        ],
+        "answers": [
+          {
+            "id": "3",
+            "text": [
+              {
+                "type": "html",
+                "content": "<p>\\(\\dfrac{{499}}{{13824}}.\\)</p>"
+              }
+            ],
+            "answer_key": "a",
+            "correct": true,
+            "question": "2"
+          },
+          {
+            "id": "4",
+            "text": [
+              {
+                "type": "html",
+                "content": "<p>\\(\\dfrac{{599}}{{13824}}.\\)</p>"
+              }
+            ],
+            "answer_key": "b",
+            "correct": false,
+            "question": "2"
+          },
+          {
+            "id": "5",
+            "text": [
+              {
+                "type": "html",
+                "content": "<p>\\(\\dfrac{{577}}{{13824}}.\\)</p>"
+              }
+            ],
+            "answer_key": "c",
+            "correct": false,
+            "question": "2"
+          },
+          {
+            "id": "6",
+            "text": [
+              {
+                "type": "html",
+                "content": "<p>\\(\\dfrac{{998}}{{13824}}.\\)</p>"
+              }
+            ],
+            "answer_key": "d",
+            "correct": false,
+            "question": "2"
+          }
+        ],
+        "quiz": "1"
+      },
+      "solution_suggesstion": [
+        {
+          "type": "html",
+          "content": "<p>T&iacute;nh x&aacute;c suất.</p>"
+        }
+      ],
+      "related_lesson": [],
+      "solution_detail": [
+        {
+          "type": "html",
+          "content": "<p>Trong \\(8\\) c&acirc;u c&ograve;n lại chỉ c&oacute; 3 c&acirc;u bạn học sinh loại từ được mỗi c&acirc;u một lựa chọn sai.</p>\n<p>Khi đ&oacute; ta c&oacute;: \\(n(\\Omega ) = {2^3} \\cdot {4^5}.\\)</p>\n<p>V&igrave; bạn học sinh đ&atilde; l&agrave;m đ&uacute;ng \\(42\\) c&acirc;u n&ecirc;n để được \\(9,4\\) điểm th&igrave; phải đ&uacute;ng \\(5\\) c&acirc;u trong \\(8\\) c&acirc;u c&ograve;n lại.</p>\n<p>Ta gọi \\(x\\) l&agrave; số c&acirc;u l&agrave;m đ&uacute;ng trong \\(5\\) c&acirc;u chưa loại trừ được th&igrave; \\((5 - x)\\) l&agrave; số c&acirc;u l&agrave;m đ&uacute;ng trong \\(3\\) c&acirc;u đ&atilde; loại trừ được .</p>\n<p>Khi đ&oacute; ta c&oacute; x&aacute;c suất bạn học sinh được \\(9,4\\)điểm l&agrave;: \\(\\dfrac{{\\sum\\limits_{x = 0}^3 {C_3^x \\cdot {2^{3 - x}} \\cdot C_5^{5 - x} \\cdot {3^x}} }}{{{3^3} \\cdot {4^5}}} = \\dfrac{{499}}{{13824}}.\\)</p>"
+        }
+      ],
+      "note": [],
+      "group_id": "67500980bd608c5c9e8732b5",
+      "order": 2,
+      "sub_order": 1,
+      "idx": 202067,
+      "time_answer_question": 0
+    },
+    {
+      "_id": "67500a9bbd608c5c9e8732b8",
+      "chapter": {
+        "id": "674fc8dcaf166c5c9ef00a74",
+        "name": "[ĐVCT] Tính đơn điệu của hàm số "
+      },
+      "parent": {
+        "id": ""
+      },
+      "content_type": 2,
+      "question_type": 5,
+      "difficult_degree": 3,
+      "question": {
+        "id": "2",
+        "content": [
+          {
+            "type": "html",
+            "content": "<p>Cho h&agrave;m số &nbsp;c&oacute; bảng biến thi&ecirc;n như sau:</p>\n<p><img src=\"https://cdn.vungoi.vn/vungoi/2024/1204/1733298607086_mceclip0.png\" /></p>\n<p>Biết rằng .\\(f\\left( 0 \\right) = 1;\\) \\(f\\left( 2 \\right) =&nbsp; - 2\\) C&oacute; bao nhi&ecirc;u số nguy&ecirc;n \\(m\\) thuộc đoạn \\(\\left[ { - 10;10} \\right]\\) để h&agrave;m số &nbsp;&nbsp;\\(y = \\dfrac{{\\left( {m + 1} \\right)f\\left( x \\right) - 20}}{{f\\left( x \\right) - m}}\\)nghịch biến tr&ecirc;n khoảng \\(\\left( {0;2} \\right)\\)?( <em>nhập đ&aacute;p &aacute;n v&agrave;o &ocirc; trống</em> )</p>"
+          }
+        ],
+        "correct_answer": [
+          "6"
+        ],
+        "clean_duplicate_space": true,
+        "case_intensitive": false,
+        "trim_white_space": true,
+        "trim_characters": "",
+        "prefix_break_line": false,
+        "prefix_input": [
+          {
+            "type": "html",
+            "content": "<p>Đ&aacute;p &aacute;n:</p>"
+          }
+        ],
+        "suffix_break_line": false,
+        "suffix_input": [
+          {
+            "type": "html",
+            "content": "<p>.</p>"
+          }
+        ],
+        "quiz": "1"
+      },
+      "solution_suggesstion": [
+        {
+          "type": "html",
+          "content": "<p>Đổi biến số, đưa về b&agrave;i to&aacute;n x&eacute;t t&iacute;nh đơn điệu của h&agrave;m số cơ bản</p>"
+        }
+      ],
+      "related_lesson": [],
+      "solution_detail": [
+        {
+          "type": "html",
+          "content": "<p>Đặt \\(t = f\\left( x \\right)\\), v&igrave; \\(x \\in \\left( {0;2} \\right) \\Rightarrow t \\in \\left( { - 2;1} \\right).\\)</p>\n<p>Lưu &yacute;: Nhận thấy \\(f\\left( x \\right)\\) nghịch biến tr&ecirc;n \\(\\left( {0;2} \\right)\\), do vậy để h&agrave;m số \\(y = \\dfrac{{(m + 1)f(x) - 20}}{{f(x) - m}}\\) nghịch biến tr&ecirc;n khoảng \\(\\left( {0;2} \\right)\\) th&igrave; h&agrave;m số \\(y = \\dfrac{{\\left( {m + 1} \\right)t - 20}}{{t - m}}\\) đồng biến tr&ecirc;n khoảng \\(\\left( { - 2;1} \\right).\\)</p>\n<p>X&eacute;t h&agrave;m số \\(g\\left( t \\right) = \\dfrac{{\\left( {m + 1} \\right)t - 20}}{{t - m}}{\\mkern 1mu} {\\mkern 1mu} \\)tr&ecirc;n \\(\\left( { - 2;1} \\right).\\) Tập x&aacute;c định:\\(D = \\mathbb{R}\\backslash \\left\\{ m \\right\\}.\\)</p>\n<p>Ta c&oacute; \\(g'\\left( t \\right) = \\dfrac{{ - {m^2} - m + 20}}{{{{\\left( {t - m} \\right)}^2}}} &gt; 0 \\Leftrightarrow \\left\\{ \\begin{array}{l} - {m^2} - m + 20 &gt; 0\\\\m \\notin \\left( { - 2;1} \\right)\\end{array} \\right. \\Leftrightarrow \\left\\{ \\begin{array}{l} - 5 &lt; m &lt; 4\\\\\\left[ {\\begin{array}{*{20}{c}}{m \\ge 1}\\\\{m \\le&nbsp; - 2}\\end{array}} \\right.\\end{array} \\right. \\Leftrightarrow m \\in \\left( { - 5; - 2} \\right] \\cup \\left[ {1;4} \\right).\\)</p>\n<p>\\( \\Rightarrow m \\in \\left\\{ { - 4; - 3; - 2;1;2;3} \\right\\}.\\)</p>"
+        }
+      ],
+      "note": [],
+      "group_id": "67500a9bbd608c5c9e8732ba",
+      "order": 1,
+      "sub_order": 1,
+      "idx": 202068,
+      "time_answer_question": 0
+    },
+    {
+      "_id": "67500b07bd608c5c9e8732bd",
+      "chapter": {
+        "id": "674fc111af166c5c9ef00a11",
+        "name": "[ABCD] Tính đơn điệu của hàm số "
+      },
+      "parent": {
+        "id": ""
+      },
+      "question_style": {
+        "general": 1,
+        "mobile": 1
+      },
+      "content_type": 2,
+      "question_type": 1,
+      "difficult_degree": 2,
+      "question": {
+        "id": "2",
+        "content": [
+          {
+            "type": "html",
+            "content": "<p>Cho h&agrave;m số \\(f\\left( x \\right)\\, = \\,\\sqrt {{x^2} - 4} \\). Mệnh đề n&agrave;o sau đ&acirc;y đ&uacute;ng?</p>"
+          }
+        ],
+        "answers": [
+          {
+            "id": "3",
+            "text": [
+              {
+                "type": "html",
+                "content": "<p>H&agrave;m số đ&atilde; cho đồng biến tr&ecirc;n khoảng \\(\\left( {0;\\, + \\infty } \\right)\\).</p>"
+              }
+            ],
+            "answer_key": "a",
+            "correct": false,
+            "question": "2"
+          },
+          {
+            "id": "4",
+            "text": [
+              {
+                "type": "html",
+                "content": "<p>H&agrave;m số đ&atilde; cho nghịch biến tr&ecirc;n khoảng \\(\\left( {2\\,;\\, + \\infty } \\right)\\).</p>"
+              }
+            ],
+            "answer_key": "b",
+            "correct": false,
+            "question": "2"
+          },
+          {
+            "id": "5",
+            "text": [
+              {
+                "type": "html",
+                "content": "<p>H&agrave;m số đ&atilde; cho đồng biến tr&ecirc;n khoảng \\(\\left( {0;\\,2} \\right) \\cup \\left( {2; + \\infty } \\right)\\).&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>"
+              }
+            ],
+            "answer_key": "c",
+            "correct": false,
+            "question": "2"
+          },
+          {
+            "id": "6",
+            "text": [
+              {
+                "type": "html",
+                "content": "<p>H&agrave;m số đ&atilde; cho đồng biến tr&ecirc;n khoảng&nbsp; \\(\\left( {2\\,;\\, + \\infty } \\right)\\).</p>"
+              }
+            ],
+            "answer_key": "d",
+            "correct": true,
+            "question": "2"
+          }
+        ],
+        "quiz": "1"
+      },
+      "solution_suggesstion": [
+        {
+          "type": "html",
+          "content": "<p>X&aacute;c định t&iacute;nh đơn điệu của h&agrave;m số.</p>"
+        }
+      ],
+      "related_lesson": [],
+      "solution_detail": [
+        {
+          "type": "html",
+          "content": "<p>TXĐ: \\(D\\, = \\,( - \\infty ; - 2] \\cup {\\rm{[}}2;\\, + \\infty )\\).</p>\n<p>Ta c&oacute;: \\(f'\\left( x \\right)\\, = \\,\\dfrac{x}{{\\sqrt {{x^2} - 4} }}\\)<strong>, </strong>\\(\\forall x \\in \\left( { - \\infty ;\\, - 2} \\right) \\cup \\left( {2;\\, + \\infty } \\right)\\)<strong>.</strong></p>\n<p>\\(f'\\left( x \\right)\\, = \\,0\\) \\( \\Leftrightarrow \\) \\(\\dfrac{x}{{\\sqrt {{x^2} - 4} }} = 0\\)\\( \\Leftrightarrow \\) \\(\\left\\{ \\begin{array}{l}x\\, = 0\\\\\\left[ \\begin{array}{l}x &lt;&nbsp; - 2\\\\x &gt; 2\\end{array} \\right.\\end{array} \\right.\\) (v&ocirc; nghiệm)</p>\n<p>\\(f'\\left( x \\right)\\, &gt; \\,0\\) \\( \\Leftrightarrow \\) \\(\\dfrac{x}{{\\sqrt {{x^2} - 4} }} &gt; 0\\)\\( \\Leftrightarrow \\)\\(\\left\\{ \\begin{array}{l}x\\, &gt; 0\\\\\\left[ \\begin{array}{l}x &lt;&nbsp; - 2\\\\x &gt; 2\\end{array} \\right.\\end{array} \\right.\\)\\( \\Leftrightarrow \\)\\(x\\, &gt; \\,2\\)</p>\n<p>Vậy h&agrave;m số đ&atilde; cho đồng biến tr&ecirc;n khoảng&nbsp; \\(\\left( {2\\,;\\, + \\infty } \\right)\\).</p>"
+        }
+      ],
+      "note": [],
+      "group_id": "67500b07bd608c5c9e8732bf",
+      "order": 1,
+      "sub_order": 1,
+      "idx": 202069,
+      "time_answer_question": 0
+    },
+    {
+      "_id": "67500b70bd608c5c9e8732c2",
+      "chapter": {
+        "id": "674fc12baf166c5c9ef00a13",
+        "name": "[ABCD] Cực trị  của hàm số "
+      },
+      "parent": {
+        "id": ""
+      },
+      "question_style": {
+        "general": 1,
+        "mobile": 1
+      },
+      "content_type": 2,
+      "question_type": 1,
+      "difficult_degree": 1,
+      "question": {
+        "id": "2",
+        "content": [
+          {
+            "type": "html",
+            "content": "<p>Cho h&agrave;m số \\(y = f(x)\\) li&ecirc;n tục tr&ecirc;n \\(\\mathbb{R}\\)v&agrave; c&oacute; bảng biến thi&ecirc;n như sau:</p>\n<p><img src=\"https://cdn.vungoi.vn/vungoi/2024/1204/1733298995883_mceclip0.png\" /></p>\n<p>Mệnh đề n&agrave;o sau đ&acirc;y đ&uacute;ng?</p>"
+          }
+        ],
+        "answers": [
+          {
+            "id": "3",
+            "text": [
+              {
+                "type": "html",
+                "content": "<p>H&agrave;m số đạt cực tiểu tại \\(x = 3\\).</p>"
+              }
+            ],
+            "answer_key": "a",
+            "correct": false,
+            "question": "2"
+          },
+          {
+            "id": "4",
+            "text": [
+              {
+                "type": "html",
+                "content": "<p>H&agrave;m số c&oacute; 3 điểm cực đại .</p>"
+              }
+            ],
+            "answer_key": "b",
+            "correct": false,
+            "question": "2"
+          },
+          {
+            "id": "5",
+            "text": [
+              {
+                "type": "html",
+                "content": "<p>H&agrave;m số đạt cực đại tại \\(x = 6\\).</p>"
+              }
+            ],
+            "answer_key": "c",
+            "correct": false,
+            "question": "2"
+          },
+          {
+            "id": "6",
+            "text": [
+              {
+                "type": "html",
+                "content": "<p>H&agrave;m số c&oacute; 3 điểm cực trị.</p>"
+              }
+            ],
+            "answer_key": "d",
+            "correct": true,
+            "question": "2"
+          }
+        ],
+        "quiz": "1"
+      },
+      "solution_suggesstion": [
+        {
+          "type": "html",
+          "content": "<p>Nhận dạng bảng biến thi&ecirc;n của h&agrave;m số.</p>"
+        }
+      ],
+      "related_lesson": [],
+      "solution_detail": [
+        {
+          "type": "html",
+          "content": "<p>Nh&igrave;n v&agrave;o bảng biến thi&ecirc;n ta thấy h&agrave;m số c&oacute; 3 điểm cực trị gồm: 1 điểm cực đại \\(x = 3\\)&nbsp; v&agrave; 2 điểm cực tiểu \\(x =&nbsp; - 1\\), \\(x = 4\\).</p>"
+        }
+      ],
+      "note": [],
+      "group_id": "67500b70bd608c5c9e8732c4",
+      "order": 1,
+      "sub_order": 1,
+      "idx": 202070,
+      "time_answer_question": 0
+    },
+    {
+      "_id": "67500c98bd608c5c9e8732c7",
+      "chapter": {
+        "id": "674fc8efaf166c5c9ef00a76",
+        "name": "[ĐVCT] Cực trị của hàm số "
+      },
+      "parent": {
+        "id": ""
+      },
+      "content_type": 2,
+      "question_type": 5,
+      "difficult_degree": 3,
+      "question": {
+        "id": "2",
+        "content": [
+          {
+            "type": "html",
+            "content": "<p>Cho h&agrave;m số \\(y = \\left| {{x^3} + 3mx\\sqrt {{x^2} + 1} } \\right|\\) với \\(m\\) l&agrave; tham số thực. Đồ thị h&agrave;m số đ&atilde; cho c&oacute; tối đa bao nhi&ecirc;u cực trị? ( <em>nhập đ&aacute;p &aacute;n v&agrave;o &ocirc; trống</em>)</p>"
+          }
+        ],
+        "correct_answer": [
+          "5"
+        ],
+        "clean_duplicate_space": true,
+        "case_intensitive": false,
+        "trim_white_space": true,
+        "trim_characters": "",
+        "prefix_break_line": false,
+        "prefix_input": [
+          {
+            "type": "html",
+            "content": "<p>Đ&aacute;p &aacute;n:</p>"
+          }
+        ],
+        "suffix_break_line": false,
+        "suffix_input": [
+          {
+            "type": "html",
+            "content": "<p>.</p>"
+          }
+        ],
+        "quiz": "1"
+      },
+      "solution_suggesstion": [
+        {
+          "type": "html",
+          "content": "<p>Đặt \\(f(x) = {x^3} + 3mx\\sqrt {{x^2} + 1} .\\)</p>"
+        }
+      ],
+      "related_lesson": [],
+      "solution_detail": [
+        {
+          "type": "html",
+          "content": "<p>Đặt \\(f(x) = {x^3} + 3mx\\sqrt {{x^2} + 1} .\\)</p>\n<p>Ta c&oacute; \\(y' = \\dfrac{{f'(x) \\cdot f(x)}}{{\\left| {f(x)} \\right|}}\\) n&ecirc;n số điểm cực trị của đồ thị h&agrave;m số bẳng tổng nghiệm của \\(f(x) = 0\\) v&agrave; \\(f'(x) = 0\\).</p>\n<p>Ta c&oacute; \\(f'(x) = 3{x^2} + 3m \\cdot \\dfrac{{2{x^2} + 1}}{{\\sqrt {{x^2} + 1} }},\\forall x \\in \\mathbb{R}\\).</p>\n<p>Suy ra \\(f'(x) = 0\\)\\( \\Leftrightarrow&nbsp; - m = \\dfrac{{{x^2} \\cdot \\sqrt {{x^2} + 1} }}{{2{x^2} + 1}}\\)&nbsp; \\((1)\\)</p>\n<p>Đặt \\(t = \\sqrt {{x^2} + 1}&nbsp; \\ge 1.\\) Khi đ&oacute; \\((1) \\Leftrightarrow&nbsp; - m = \\dfrac{{{t^3} - t}}{{2{t^2} - t}}\\)&nbsp; \\((2)\\)</p>\n<p>X&eacute;t h&agrave;m số \\(g(t) = \\dfrac{{{t^3} - t}}{{2{t^2} - t}}\\), với \\(t \\ge 1\\). Ta c&oacute; \\(g'(t) = \\dfrac{{2{t^4} - {t^2} + 1}}{{{{(2{t^2} - 1)}^2}}} &gt; 0,\\forall t \\ge 1\\) suy ra \\((2)\\) c&oacute; nhiều nhất một nghiệm \\(t \\ge 1\\) khi \\(m \\le 0\\) hay \\((1)\\) c&oacute; nhiều nhất 2 nghiệm ph&acirc;n biệt khi \\(m &lt; 0\\) \\((*)\\)</p>\n<p>M&agrave; \\(f(x) = 0 \\Leftrightarrow {x^3} =&nbsp; - 3mx\\sqrt {{x^2} + 1} \\)&nbsp; \\((3)\\).</p>\n<p>Khi \\(m &lt; 0\\), \\((3) \\Leftrightarrow \\left[ \\begin{array}{l}x = 0\\\\{x^2} =&nbsp; - 3m\\sqrt {{x^2} + 1}&nbsp; = 0\\end{array} \\right. \\Leftrightarrow \\left[ \\begin{array}{l}x = 0\\\\{x^4} - 9{m^2}{x^2} - 9{m^2} = 0\\end{array} \\right.\\)&nbsp;&nbsp;&nbsp; \\((4)\\).</p>\n<p>X&eacute;t phương tr&igrave;nh \\((4)\\) ta c&oacute; \\(P =&nbsp; - 9{m^2} &lt; 0,\\) với \\(m &lt; 0\\) n&ecirc;n \\((4)\\) lu&ocirc;n c&oacute; hai nghiệm ph&acirc;n biệt hay \\((3)\\) c&oacute; nhiều nhất 3 nghiệm ph&acirc;n biệt.</p>\n<p>Vậy đồ thị của h&agrave;m số \\(y = \\left| {{x^3} + 3mx\\sqrt {{x^2} + 1} } \\right|\\) c&oacute; tối đa 5 cực trị.</p>"
+        }
+      ],
+      "note": [],
+      "group_id": "67500c98bd608c5c9e8732c9",
+      "order": 1,
+      "sub_order": 1,
+      "idx": 202071,
+      "time_answer_question": 0
+    },
+    {
+      "_id": "67500d18bd608c5c9e8732cc",
+      "chapter": {
+        "id": "674fc919af166c5c9ef00a78",
+        "name": "[ĐVCT] GTNN-GTLN của hàm số "
+      },
+      "parent": {
+        "id": ""
+      },
+      "content_type": 2,
+      "question_type": 5,
+      "difficult_degree": 2,
+      "question": {
+        "id": "2",
+        "content": [
+          {
+            "type": "html",
+            "content": "<p>T&igrave;m gi&aacute; trị nhỏ nhất của h&agrave;m số \\(y = x + \\dfrac{4}{x}\\) tr&ecirc;n khoảng \\((0; + \\infty ).\\)( <em>nhập đ&aacute;p &aacute;n v&agrave;o &ocirc; trống</em> )</p>"
+          }
+        ],
+        "correct_answer": [
+          "4"
+        ],
+        "clean_duplicate_space": true,
+        "case_intensitive": false,
+        "trim_white_space": true,
+        "trim_characters": "",
+        "prefix_break_line": false,
+        "prefix_input": [
+          {
+            "type": "html",
+            "content": "<p>Đ&aacute;p &aacute;n:</p>"
+          }
+        ],
+        "suffix_break_line": false,
+        "suffix_input": [
+          {
+            "type": "html",
+            "content": "<p>.</p>"
+          }
+        ],
+        "quiz": "1"
+      },
+      "solution_suggesstion": [
+        {
+          "type": "html",
+          "content": "<p>Sử dụng bất đẳng thức hoặc&nbsp;t&igrave;m nghiệm của \\(y'\\) v&agrave; vẽ bảng biến thi&ecirc;n.</p>"
+        }
+      ],
+      "related_lesson": [],
+      "solution_detail": [
+        {
+          "type": "html",
+          "content": "<p>Với \\(x \\in \\left( {0; + \\infty } \\right)\\)\\( \\Rightarrow x,\\dfrac{4}{x} &gt; 0\\). &Aacute;p dụng bất đẳng thức Cauchy ta c&oacute; \\(x + \\dfrac{4}{x} \\ge 2\\sqrt {x \\cdot \\dfrac{4}{x}}&nbsp; = 4.\\)</p>\n<p>Dấu bằng xảy ra khi v&agrave; chỉ khi \\(\\left\\{ \\begin{array}{l}x &gt; 0\\\\x = \\dfrac{4}{x}\\end{array} \\right. \\Leftrightarrow x = 2.\\) Vậy gi&aacute; trị nhỏ nhất l&agrave; \\(y(2) = 4.\\)</p>"
+        }
+      ],
+      "note": [],
+      "group_id": "67500d18bd608c5c9e8732ce",
+      "order": 1,
+      "sub_order": 1,
+      "idx": 202072,
+      "time_answer_question": 0
+    },
+    {
+      "_id": "67500da3bd608c5c9e8732d1",
+      "chapter": {
+        "id": "674fc995af166c5c9ef00a81",
+        "name": "[ĐVCT] Ứng dụng đạo hàm - bài toán thực tế "
+      },
+      "parent": {
+        "id": ""
+      },
+      "content_type": 2,
+      "question_type": 5,
+      "difficult_degree": 3,
+      "question": {
+        "id": "2",
+        "content": [
+          {
+            "type": "html",
+            "content": "<p>Một &ocirc;ng chủ d&atilde;y trọ c&oacute; 80 ph&ograve;ng trọ cho thu&ecirc;. &Ocirc;ng nhận thấy rằng tất cả ph&ograve;ng trọ sẽ c&oacute; người thu&ecirc; nếu gi&aacute; thu&ecirc; một ph&ograve;ng trọ l&agrave; 6 &nbsp;triệu đồng/th&aacute;ng. Trong khi, khảo s&aacute;t thị trường cho thấy trung b&igrave;nh cữ mỗi lần tăng gi&aacute; trọ th&ecirc;m 200 ngh&igrave;n đồng/th&aacute;ng th&igrave; sẽ c&oacute; th&ecirc;m \\(2\\) ph&ograve;ng trọ bị bỏ trống. Để &ocirc;ng chủ thu về được số tiền lớn nhất th&igrave; cần cho thu&ecirc; bao nhi&ecirc;u ph&ograve;ng trọ?</p>\n<p>(<em>nhập đ&aacute;p &aacute;n v&agrave;o &ocirc; trống</em>)</p>"
+          }
+        ],
+        "correct_answer": [
+          "70"
+        ],
+        "clean_duplicate_space": true,
+        "case_intensitive": false,
+        "trim_white_space": true,
+        "trim_characters": "",
+        "prefix_break_line": false,
+        "prefix_input": [
+          {
+            "type": "html",
+            "content": "<p>Đ&aacute;p &aacute;n:</p>"
+          }
+        ],
+        "suffix_break_line": false,
+        "suffix_input": [
+          {
+            "type": "html",
+            "content": "<p>.</p>"
+          }
+        ],
+        "quiz": "1"
+      },
+      "solution_suggesstion": [
+        {
+          "type": "html",
+          "content": "<p>X&acirc;y dựng h&agrave;m cần đ&aacute;nh gi&aacute; v&agrave; đưa về một ẩn.</p>"
+        }
+      ],
+      "related_lesson": [],
+      "solution_detail": [
+        {
+          "type": "html",
+          "content": "<p>Gọi \\(x\\) l&agrave; số lần tăng gi&aacute; trọ, khi đ&oacute; ta c&oacute; phương tr&igrave;nh tổng số tiền mỗi th&aacute;ng của &ocirc;ng chủ dựa theo \\(x\\) l&agrave;:</p>\n<p>\\(y = (6 + x \\cdot 0,2)(80 - 2 \\cdot x)\\).&nbsp; \\((1)\\)</p>\n<p>Khi đ&oacute; ta cần t&igrave;m gi&aacute; trị lớn nhất của h&agrave;m số tr&ecirc;n:</p>\n<p>\\((1) \\Leftrightarrow y =&nbsp; - 0,4{x^2} + 4x + 480\\)\\( \\Rightarrow y' =&nbsp; - 0,8 + 4 = 0 \\Leftrightarrow x = 5.\\)</p>\n<p>Dễ thấy h&agrave;m số c&oacute; gi&aacute; trị lớn nhất tại \\(x = 5.\\)</p>\n<p>Vậy sẽ c&oacute; 10 lần tăng tiền nh&agrave; tương ứng với 10 ph&ograve;ng sẽ bị trống.</p>\n<p>V&acirc;y &ocirc;ng chủ sẽ thu được số tiền lớn nhất nếu cho thu&ecirc; 70 ph&ograve;ng.</p>"
+        }
+      ],
+      "note": [],
+      "group_id": "67500da3bd608c5c9e8732d3",
+      "order": 1,
+      "sub_order": 1,
+      "idx": 202073,
+      "time_answer_question": 0
+    },
+    {
+      "_id": "67501f92bd608c5c9e8733f2",
+      "chapter": {
+        "id": "674fc198af166c5c9ef00a19",
+        "name": "[ABCD] Đường tiệm cận của đồ thị hàm số "
+      },
+      "parent": {
+        "id": ""
+      },
+      "question_style": {
+        "general": 1,
+        "mobile": 1
+      },
+      "content_type": 2,
+      "question_type": 1,
+      "difficult_degree": 2,
+      "question": {
+        "id": "2",
+        "content": [
+          {
+            "type": "html",
+            "content": "<p>T&igrave;m t&acirc;m đối xứng của đồ thị h&agrave;m số sau \\(f(x) = \\dfrac{{2{x^2} - 3x + 1}}{{x - 2}}\\).</p>"
+          }
+        ],
+        "answers": [
+          {
+            "id": "3",
+            "text": [
+              {
+                "type": "html",
+                "content": "<p>\\(I = (2;5).\\)</p>"
+              }
+            ],
+            "answer_key": "a",
+            "correct": true,
+            "question": "2"
+          },
+          {
+            "id": "4",
+            "text": [
+              {
+                "type": "html",
+                "content": "<p>\\(I = (5,2).\\)</p>"
+              }
+            ],
+            "answer_key": "b",
+            "correct": false,
+            "question": "2"
+          },
+          {
+            "id": "5",
+            "text": [
+              {
+                "type": "html",
+                "content": "<p>\\(I = (2;1).\\)</p>"
+              }
+            ],
+            "answer_key": "c",
+            "correct": false,
+            "question": "2"
+          },
+          {
+            "id": "6",
+            "text": [
+              {
+                "type": "html",
+                "content": "<p>\\(I = (1;2).\\)</p>"
+              }
+            ],
+            "answer_key": "d",
+            "correct": false,
+            "question": "2"
+          }
+        ],
+        "quiz": "1"
+      },
+      "solution_suggesstion": [
+        {
+          "type": "html",
+          "content": "<p>T&igrave;m giao điểm của tiệm cận xi&ecirc;n v&agrave; tiệm cận đứng.</p>"
+        }
+      ],
+      "related_lesson": [],
+      "solution_detail": [
+        {
+          "type": "html",
+          "content": "<p>Ta c&oacute; \\(f(x) = 2x + 1 + \\dfrac{3}{{x - 2}}\\).</p>\n<p>Khi đ&oacute; đồ thị h&agrave;m số c&oacute; tiệm cận xi&ecirc;n l&agrave; \\(y = 2x + 1\\) v&agrave; tiệm cận đứng l&agrave; \\(x = 2\\).</p>\n<p>Thay v&agrave;o ta c&oacute; \\(y = 2 \\cdot 2 + 1 = 5\\). Vậy tọa độ giao điểm l&agrave; \\((2;5)\\)</p>"
+        }
+      ],
+      "note": [],
+      "group_id": "67501f92bd608c5c9e8733f4",
+      "order": 1,
+      "sub_order": 1,
+      "idx": 202091,
+      "time_answer_question": 0
+    },
+    {
+      "_id": "675025d5bd608c5c9e87340c",
+      "chapter": {
+        "id": "674fc952af166c5c9ef00a7d",
+        "name": "[ĐVCT] Đường tiệm cận của đồ thị hàm số "
+      },
+      "parent": {
+        "id": ""
+      },
+      "content_type": 2,
+      "question_type": 5,
+      "difficult_degree": 3,
+      "question": {
+        "id": "2",
+        "content": [
+          {
+            "type": "html",
+            "content": "<p>T&iacute;nh tổng tất cả c&aacute;c gi&aacute; trị nguy&ecirc;n của tham số <em>m</em> để đồ thị h&agrave;m số \\(y = \\dfrac{{{x^2} - x - 6}}{{{x^2} + mx + 2m - 4}}\\) kh&ocirc;ng c&oacute; đường tiệm cận đứng (<em>nhập đ&aacute;p &aacute;n v&agrave;o &ocirc; trống</em>)</p>"
+          }
+        ],
+        "correct_answer": [
+          "-1"
+        ],
+        "clean_duplicate_space": true,
+        "case_intensitive": false,
+        "trim_white_space": true,
+        "trim_characters": "",
+        "prefix_break_line": false,
+        "prefix_input": [
+          {
+            "type": "html",
+            "content": "<p>Đ&aacute;p &aacute;n:</p>"
+          }
+        ],
+        "suffix_break_line": false,
+        "suffix_input": [
+          {
+            "type": "html",
+            "content": "<p>.</p>"
+          }
+        ],
+        "quiz": "1"
+      },
+      "solution_suggesstion": [
+        {
+          "type": "html",
+          "content": "<p>X&eacute;t số nghiệm của đa thức mẫu.</p>"
+        }
+      ],
+      "related_lesson": [],
+      "solution_detail": [
+        {
+          "type": "html",
+          "content": "<p>Điều kiện \\({x^2} + mx - 2m - 4 \\ne 0\\).</p>\n<p>Đặt \\(f\\left( x \\right) = {x^2} - x - 6,g\\left( x \\right) = {x^2} + mx + 2m - 4\\).</p>\n<p>Ta c&oacute; \\(f\\left( x \\right) = 0 \\Leftrightarrow \\left[ \\begin{array}{l}x = 3\\\\x =&nbsp; - 2\\end{array} \\right.\\) l&agrave; nghiệm đơn của tử thức.</p>\n<p>Để đồ thị kh&ocirc;ng c&oacute; tiệm cận đứng, ta c&oacute; c&aacute;c trường hợp sau</p>\n<p><em>Trường hợp 1</em>. Phương tr&igrave;nh \\(g\\left( x \\right) = 0\\) v&ocirc; nghiệm \\(\\Delta&nbsp; = {m^2} - 8m+ 16 &lt; 0 \\Leftrightarrow \\) v&ocirc; nghiệm.</p>\n<p><em>Trường hợp 2.</em> \\(g\\left( x \\right) = 0\\) nhận đồng thời \\(x =&nbsp; - 2\\) v&agrave; \\(x = 3\\) l&agrave;m nghiệm \\( \\Leftrightarrow \\left\\{ \\begin{array}{l}4 - 2m + 2m - 4 = 0\\\\9 + 3m + 2m - 4 = 0\\end{array} \\right. \\Leftrightarrow m =&nbsp; - 1\\).</p>\n<p>Vậy c&aacute;c gi&aacute; trị nguy&ecirc;n của <em>m</em> để đồ thị kh&ocirc;ng c&oacute; tiệm cận đứng l&agrave; \\(m \\in \\left\\{ { - 1} \\right\\}\\)</p>"
+        }
+      ],
+      "note": [],
+      "group_id": "675025d5bd608c5c9e87340e",
+      "order": 1,
+      "sub_order": 1,
+      "idx": 202096,
+      "time_answer_question": 0
+    },
+    {
+      "_id": "6750267cbd608c5c9e873419",
+      "chapter": {
+        "id": "674fc225af166c5c9ef00a1f",
+        "name": "[ABCD] Khảo sát hàm số "
+      },
+      "parent": {
+        "id": ""
+      },
+      "question_style": {
+        "general": 1,
+        "mobile": 1
+      },
+      "content_type": 2,
+      "question_type": 1,
+      "difficult_degree": 3,
+      "question": {
+        "id": "2",
+        "content": [
+          {
+            "type": "html",
+            "content": "<p>Cho h&agrave;m số \\(y = \\dfrac{x}{{x + 2}}.\\) c&oacute; đồ thị như h&igrave;nh \\(1\\). Đồ thị h&igrave;nh \\(2\\) l&agrave; của h&agrave;m số n&agrave;o trong c&aacute;c h&agrave;m số sau?</p>\n<p><img src=\"https://cdn.vungoi.vn/vungoi/2024/1204/1733305883053_mceclip0.png\" /></p>\n<p style=\"text-align: center;\">H&igrave;nh 1</p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\"><img src=\"https://cdn.vungoi.vn/vungoi/2024/1204/1733305901234_mceclip0.png\" /></p>\n<p style=\"text-align: center;\">H&igrave;nh 2</p>"
+          }
+        ],
+        "answers": [
+          {
+            "id": "3",
+            "text": [
+              {
+                "type": "html",
+                "content": "<p>\\(y = \\dfrac{{\\left| x \\right|}}{{\\left| x \\right| + 2}}.\\)</p>"
+              }
+            ],
+            "answer_key": "a",
+            "correct": false,
+            "question": "2"
+          },
+          {
+            "id": "4",
+            "text": [
+              {
+                "type": "html",
+                "content": "<p>\\(y = \\left| {\\dfrac{{\\left| x \\right|}}{{\\left| x \\right| + 2}}} \\right|.\\)</p>"
+              }
+            ],
+            "answer_key": "b",
+            "correct": false,
+            "question": "2"
+          },
+          {
+            "id": "5",
+            "text": [
+              {
+                "type": "html",
+                "content": "<p>\\(y = \\left| {\\dfrac{x}{{x + 2}}} \\right|.\\)</p>"
+              }
+            ],
+            "answer_key": "c",
+            "correct": true,
+            "question": "2"
+          },
+          {
+            "id": "6",
+            "text": [
+              {
+                "type": "html",
+                "content": "<p>\\(y = \\dfrac{x}{{\\left| x \\right| + 2}}.\\)</p>"
+              }
+            ],
+            "answer_key": "d",
+            "correct": false,
+            "question": "2"
+          }
+        ],
+        "quiz": "1"
+      },
+      "solution_suggesstion": [
+        {
+          "type": "html",
+          "content": "<p>Ph&eacute;p suy đồ thị.</p>"
+        }
+      ],
+      "related_lesson": [],
+      "solution_detail": [
+        {
+          "type": "html",
+          "content": "<p>Đồ thị nằm ph&iacute;a tr&ecirc;n trục \\(Ox \\Rightarrow \\)loại D</p>\n<p>Đồ thị h&agrave;m số của đ&aacute;p &aacute;n A,B phải đối xứng qua trục \\(Oy\\)\\( \\Rightarrow \\)Loại A,B</p>"
+        }
+      ],
+      "note": [],
+      "group_id": "6750267cbd608c5c9e87341b",
+      "order": 1,
+      "sub_order": 1,
+      "idx": 202102,
+      "time_answer_question": 0
+    },
+    {
+      "_id": "675026e3bd608c5c9e87341e",
+      "chapter": {
+        "id": "674fc178af166c5c9ef00a17",
+        "name": "[ABCD] Tương giao đồ thị"
+      },
+      "parent": {
+        "id": ""
+      },
+      "question_style": {
+        "general": 1,
+        "mobile": 1
+      },
+      "content_type": 2,
+      "question_type": 1,
+      "difficult_degree": 3,
+      "question": {
+        "id": "2",
+        "content": [
+          {
+            "type": "html",
+            "content": "<p>Tập hợp c&aacute;c gi&aacute; trị thực của tham số \\(m\\) để đường thẳng \\(d:y =&nbsp; - mx\\) cắt đồ thị của h&agrave;m số \\(y = {x^3} - 3{x^2} - m + 2\\) \\(\\left( C \\right)\\) tại ba điểm ph&acirc;n biệt \\(A,B,C\\) sao cho \\(AB = BC\\) l&agrave;<strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </strong></p>"
+          }
+        ],
+        "answers": [
+          {
+            "id": "3",
+            "text": [
+              {
+                "type": "html",
+                "content": "<p>\\(m \\in \\left( { - \\infty ; - 1} \\right).\\)<strong> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </strong></p>"
+              }
+            ],
+            "answer_key": "a",
+            "correct": false,
+            "question": "2"
+          },
+          {
+            "id": "4",
+            "text": [
+              {
+                "type": "html",
+                "content": "<p>\\(m \\in \\left( { - \\infty ;3} \\right).\\)<strong>&nbsp;&nbsp; </strong></p>"
+              }
+            ],
+            "answer_key": "b",
+            "correct": true,
+            "question": "2"
+          },
+          {
+            "id": "5",
+            "text": [
+              {
+                "type": "html",
+                "content": "<p>\\(m \\in \\left( {1; + \\infty } \\right).\\)<strong>&nbsp; </strong></p>"
+              }
+            ],
+            "answer_key": "c",
+            "correct": false,
+            "question": "2"
+          },
+          {
+            "id": "6",
+            "text": [
+              {
+                "type": "html",
+                "content": "<p>\\(m \\in \\mathbb{R}.\\)</p>"
+              }
+            ],
+            "answer_key": "d",
+            "correct": false,
+            "question": "2"
+          }
+        ],
+        "quiz": "1"
+      },
+      "solution_suggesstion": [
+        {
+          "type": "html",
+          "content": "<p>Tương giao đồ thị</p>"
+        }
+      ],
+      "related_lesson": [],
+      "solution_detail": [
+        {
+          "type": "html",
+          "content": "<p>Phtr&igrave;nh hđgđ: \\({x^3} - 3{x^2} - m + 2 =&nbsp; - \\,mx \\Leftrightarrow \\left[ \\begin{array}{l}x = 1\\\\{x^2} - 2x + m - 2 = 0\\,\\,\\,\\,\\,\\left(&nbsp; *&nbsp; \\right)\\end{array} \\right..\\)</p>\n<p>Để \\(d\\) cắt \\(\\left( C \\right)\\) tại ba điểm ph&acirc;n biệt \\( \\Leftrightarrow \\left( * \\right)\\) c&oacute; hai nghiệm ph&acirc;n biệt kh&aacute;c \\(1\\)</p>\n<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; \\( \\Leftrightarrow \\left\\{ \\begin{array}{l}\\Delta ' &gt; 0\\\\{1^2} - 2.1 + m - 2 \\ne 0\\end{array} \\right. \\Leftrightarrow \\left\\{ \\begin{array}{l}1 - \\left( {m - 2} \\right) &gt; 0\\\\m \\ne 3\\end{array} \\right. \\Leftrightarrow m &lt; 3.\\)</p>\n<p>Gọi \\({x_1},{\\rm{ }}{x_2}\\) l&agrave; hai nghiệm của \\(\\left( * \\right).\\) Theo định l&iacute; Viet, ta c&oacute; \\({x_1} + {x_2} = 2.\\)</p>\n<p>Giả sử \\({x_2} &gt; 1\\) th&igrave; \\({x_1} = 2 - {x_2} &lt; 1\\), suy ra \\({x_1} &lt; 1 &lt; {x_2}.\\)</p>\n<p>Theo giả thiết \\(BA = BC\\) n&ecirc;n \\(B\\) l&agrave; trung điểm của \\(AC\\) do đ&oacute; \\({x_B} = 1\\) v&agrave; \\({x_A} = {x_1}\\), \\({x_C} = {x_2}\\). Khi đ&oacute; ta c&oacute; \\({x_A} + {x_C} = 2{x_B}\\) n&ecirc;n \\(d\\) lu&ocirc;n cắt \\(\\left( C \\right)\\) tại ba điểm ph&acirc;n biệt \\(A,{\\rm{ }}B,{\\rm{ }}C\\) thỏa m&atilde;n \\(AB = BC.\\)</p>\n<p>Vậy với \\(m &lt; 3\\) thỏa m&atilde;n y&ecirc;u cầu b&agrave;i to&aacute;n.</p>"
+        }
+      ],
+      "note": [],
+      "group_id": "675026e3bd608c5c9e873420",
+      "order": 1,
+      "sub_order": 1,
+      "idx": 202103,
+      "time_answer_question": 0
+    },
+    {
+      "_id": "6750fba9bd608c5c9e877058",
+      "chapter": {
+        "id": "674fc4c9af166c5c9ef00a37",
+        "name": "[ABCD] Nguyên hàm "
+      },
+      "parent": {
+        "id": ""
+      },
+      "question_style": {
+        "general": 1,
+        "mobile": 1
+      },
+      "content_type": 2,
+      "question_type": 1,
+      "difficult_degree": 2,
+      "question": {
+        "id": "2",
+        "content": [
+          {
+            "type": "html",
+            "content": "<p>Cho \\(F(x)\\) l&agrave; một nguy&ecirc;n h&agrave;m của h&agrave;m số \\(f(x) = \\dfrac{1}{{x - 3}}\\), biết \\(F(2) = 3\\). Gi&aacute; trị của \\(F(0)\\) bằng</p>"
+          }
+        ],
+        "answers": [
+          {
+            "id": "3",
+            "text": [
+              {
+                "type": "html",
+                "content": "<p>\\(\\ln 3 + 3.\\)</p>"
+              }
+            ],
+            "answer_key": "a",
+            "correct": true,
+            "question": "2"
+          },
+          {
+            "id": "4",
+            "text": [
+              {
+                "type": "html",
+                "content": "<p>\\(\\ln 3.\\)</p>"
+              }
+            ],
+            "answer_key": "b",
+            "correct": false,
+            "question": "2"
+          },
+          {
+            "id": "5",
+            "text": [
+              {
+                "type": "html",
+                "content": "<p>\\(\\ln 3 - 3.\\)</p>"
+              }
+            ],
+            "answer_key": "c",
+            "correct": false,
+            "question": "2"
+          },
+          {
+            "id": "6",
+            "text": [
+              {
+                "type": "html",
+                "content": "<p>\\(3.\\)</p>"
+              }
+            ],
+            "answer_key": "d",
+            "correct": false,
+            "question": "2"
+          }
+        ],
+        "quiz": "1"
+      },
+      "solution_suggesstion": [
+        {
+          "type": "html",
+          "content": "<p>T&igrave;m nguy&ecirc;n h&agrave;m.</p>"
+        }
+      ],
+      "related_lesson": [],
+      "solution_detail": [
+        {
+          "type": "html",
+          "content": "<p>Ta c&oacute; \\(\\int {f(x)dx = \\int {\\dfrac{1}{{x - 3}}} } dx = \\ln \\left| {x - 3} \\right| + C,C \\in \\mathbb{R}.\\)</p>\n<p>M&agrave; \\(F(2) = 3\\)\\( \\Rightarrow C = 3 \\Rightarrow F(x) = \\ln \\left| {x - 3} \\right| + 3.\\)</p>\n<p>Vậy \\(F(0) = \\ln 3 + 3.\\)</p>"
+        }
+      ],
+      "note": [],
+      "group_id": "6750fba9bd608c5c9e87705a",
+      "order": 1,
+      "sub_order": 1,
+      "idx": 202136,
+      "time_answer_question": 0
+    },
+    {
+      "_id": "6750fc28bd608c5c9e87705d",
+      "chapter": {
+        "id": "674fc5b4af166c5c9ef00a43",
+        "name": "[ĐVCT] Tích phân & tính chất tích phân"
+      },
+      "parent": {
+        "id": ""
+      },
+      "content_type": 2,
+      "question_type": 5,
+      "difficult_degree": 2,
+      "question": {
+        "id": "2",
+        "content": [
+          {
+            "type": "html",
+            "content": "<p>Biết \\(\\int\\limits_0^1 {\\dfrac{{{x^2} - 2}}{{x + 1}}} dx =&nbsp; - \\dfrac{1}{m} + n \\cdot \\ln 2\\), Với \\(m,n\\) l&agrave; c&aacute;c số nguy&ecirc;n. T&iacute;nh \\(m - n.\\) ( <em>nhập đ&aacute;p &aacute;n v&agrave;o &ocirc; trống</em>)</p>"
+          }
+        ],
+        "correct_answer": [
+          "3"
+        ],
+        "clean_duplicate_space": true,
+        "case_intensitive": false,
+        "trim_white_space": true,
+        "trim_characters": "",
+        "prefix_break_line": false,
+        "prefix_input": [
+          {
+            "type": "html",
+            "content": "<p>Đ&aacute;p &aacute;n:</p>"
+          }
+        ],
+        "suffix_break_line": false,
+        "suffix_input": [
+          {
+            "type": "html",
+            "content": "<p>.</p>"
+          }
+        ],
+        "quiz": "1"
+      },
+      "solution_suggesstion": [
+        {
+          "type": "html",
+          "content": "<p>T&iacute;nh t&iacute;ch ph&acirc;n.</p>"
+        }
+      ],
+      "related_lesson": [],
+      "solution_detail": [
+        {
+          "type": "html",
+          "content": "<p>\\(\\int\\limits_0^1 {\\dfrac{{{x^2} - 2}}{{x + 1}}} dx = \\int\\limits_0^1 {(x - 1)dx - \\int\\limits_0^1 {\\dfrac{{dx}}{{x + 1}}} }&nbsp; = \\left. {\\dfrac{{{{(x - 1)}^2}}}{2}} \\right|_0^1 - \\ln \\left. {\\left| {x + 1} \\right|} \\right|_0^1 = \\dfrac{{ - 1}}{2} - \\ln 2.\\)</p>\n<p>Suy ra \\(m = 2,n =&nbsp; - 1 \\Rightarrow m - n = 3.\\)</p>"
+        }
+      ],
+      "note": [],
+      "group_id": "6750fc28bd608c5c9e87705f",
+      "order": 1,
+      "sub_order": 1,
+      "idx": 202137,
+      "time_answer_question": 0
+    },
+    {
+      "_id": "6750fcc3bd608c5c9e877062",
+      "chapter": {
+        "id": "674fc514af166c5c9ef00a3b",
+        "name": "[ABCD] Ứng dụng tính diện tích"
+      },
+      "parent": {
+        "id": ""
+      },
+      "question_style": {
+        "general": 1,
+        "mobile": 1
+      },
+      "content_type": 2,
+      "question_type": 1,
+      "difficult_degree": 3,
+      "question": {
+        "id": "2",
+        "content": [
+          {
+            "type": "html",
+            "content": "<p>T&igrave;m số thực \\(a\\) để h&igrave;nh phẳng giới hạn bởi hai đồ thị h&agrave;m số \\(y = \\dfrac{{{x^2} + 2ax + 3{a^2}}}{{1 + {a^6}}}\\) v&agrave; \\(y = \\dfrac{{{a^2} - ax}}{{1 + {a^6}}}\\) c&oacute; diện t&iacute;ch lớn nhất.</p>"
+          }
+        ],
+        "answers": [
+          {
+            "id": "3",
+            "text": [
+              {
+                "type": "html",
+                "content": "<p>\\(1.\\)</p>"
+              }
+            ],
+            "answer_key": "a",
+            "correct": true,
+            "question": "2"
+          },
+          {
+            "id": "4",
+            "text": [
+              {
+                "type": "html",
+                "content": "<p>\\(\\dfrac{1}{{\\sqrt[3]{2}}}.\\)</p>"
+              }
+            ],
+            "answer_key": "b",
+            "correct": false,
+            "question": "2"
+          },
+          {
+            "id": "5",
+            "text": [
+              {
+                "type": "html",
+                "content": "<p>\\(2.\\)</p>"
+              }
+            ],
+            "answer_key": "c",
+            "correct": false,
+            "question": "2"
+          },
+          {
+            "id": "6",
+            "text": [
+              {
+                "type": "html",
+                "content": "<p>\\(\\sqrt[3]{2}.\\)</p>"
+              }
+            ],
+            "answer_key": "d",
+            "correct": false,
+            "question": "2"
+          }
+        ],
+        "quiz": "1"
+      },
+      "solution_suggesstion": [
+        {
+          "type": "html",
+          "content": "<p>Ứng dụng t&iacute;ch ph&acirc;n t&iacute;nh diện t&iacute;ch</p>"
+        }
+      ],
+      "related_lesson": [],
+      "solution_detail": [
+        {
+          "type": "html",
+          "content": "<p><strong>Phương tr&igrave;nh ho&agrave;nh độ giao điểm của hai đồ thị h&agrave;m số l&agrave;:</strong></p>\n<p>\\(\\dfrac{{{x^2} + 2ax + 3{a^2}}}{{1 + {a^6}}} = \\dfrac{{{a^2} - ax}}{{1 + {a^6}}} \\Leftrightarrow (x + a)(x + 2a) = 0 \\Leftrightarrow \\left[ \\begin{array}{l}x =&nbsp; - a\\\\x =&nbsp; - 2a\\end{array} \\right..\\)</p>\n<p>\\( \\bullet \\) Nếu \\(a &gt; 0\\) th&igrave; \\(S = \\int\\limits_{ - 2a}^{ - a} {\\left| {\\dfrac{{{x^2} + 3ax + 2{a^2}}}{{1 + {a^6}}}} \\right|} dx =&nbsp; - \\int\\limits_{ - 2a}^a {\\dfrac{{{x^2} + 3ax + 2{a^2}}}{{1 + {a^6}}}} dx = \\dfrac{1}{6} \\cdot \\dfrac{{{a^3}}}{{1 + {a^6}}}\\)</p>\n<p>\\( \\bullet \\) Nếu \\(a &lt; 0\\) th&igrave; \\(S = \\int\\limits_{ - a}^{ - 2a} {\\left| {\\dfrac{{{x^2} + 3ax + 2{a^2}}}{{1 + {a^6}}}} \\right|} dx =&nbsp; - \\int\\limits_{ - a}^{2a} {\\dfrac{{{x^2} + 3ax + 2{a^2}}}{{1 + {a^6}}}} dx =&nbsp; - \\dfrac{1}{6} \\cdot \\dfrac{{{a^3}}}{{1 + {a^6}}}\\)</p>\n<p>\\( \\bullet \\) Nếu \\(a = 0\\) th&igrave; \\(S = 0\\).</p>\n<p>Khi đo với \\(a \\ne 0\\) th&igrave; \\(S = \\dfrac{1}{6} \\cdot \\dfrac{{{{\\left| a \\right|}^3}}}{{1 + {{\\left| a \\right|}^6}}} \\le \\dfrac{1}{6} \\cdot \\dfrac{{{{\\left| a \\right|}^3}}}{{2{{\\left| a \\right|}^3}}} = \\dfrac{1}{{12}}.\\)</p>\n<p>Dấu&nbsp; xảy ra khi v&agrave; chỉ khi \\(a =&nbsp; \\pm 1.\\)</p>\n<p>Vậy diện t&iacute;ch h&igrave;nh phẳng giới hạn bởi hai h&agrave;m đ&atilde; cho c&oacute; diện t&iacute;ch lớn nhất khi \\(a = 1.\\)</p>"
+        }
+      ],
+      "note": [],
+      "group_id": "6750fcc3bd608c5c9e877064",
+      "order": 1,
+      "sub_order": 1,
+      "idx": 202138,
+      "time_answer_question": 0
+    },
+    {
+      "_id": "6750fd44bd608c5c9e877067",
+      "chapter": {
+        "id": "674fc62baf166c5c9ef00a49",
+        "name": "[ĐVCT] Ứng dụng khác "
+      },
+      "parent": {
+        "id": ""
+      },
+      "content_type": 2,
+      "question_type": 5,
+      "difficult_degree": 3,
+      "question": {
+        "id": "2",
+        "content": [
+          {
+            "type": "html",
+            "content": "<p>Một chất điểm bắt đầu chuyển động thẳng đều với vận tốc \\({v_0}\\), sau 6 gi&acirc;y chuyển động th&igrave; gặp chướng ngại vật n&ecirc;n bắt đầu giảm tốc độ với vận tốc chuyển động \\(v(t) =&nbsp; - \\dfrac{5}{2}t + a\\) \\((m/s)\\), \\((t \\ge 6)\\) cho đến khi dừng hẳn. biết rằng kể từ l&uacute;c chuyển động đến l&uacute;c dừng th&igrave; chất điểm đi được qu&atilde;ng đường l&agrave; \\(80m\\). T&igrave;m \\({v_0}\\). (<em>nhập đ&aacute;p &aacute;n v&agrave;o &ocirc; trống</em>)</p>"
+          }
+        ],
+        "correct_answer": [
+          "10"
+        ],
+        "clean_duplicate_space": true,
+        "case_intensitive": false,
+        "trim_white_space": true,
+        "trim_characters": "",
+        "prefix_break_line": false,
+        "prefix_input": [
+          {
+            "type": "html",
+            "content": "<p>Đ&aacute;p &aacute;n:</p>"
+          }
+        ],
+        "suffix_break_line": false,
+        "suffix_input": [
+          {
+            "type": "html",
+            "content": "<p>.</p>"
+          }
+        ],
+        "quiz": "1"
+      },
+      "solution_suggesstion": [
+        {
+          "type": "html",
+          "content": "<p>C&ocirc;ng thức t&iacute;ch ph&acirc;n.</p>"
+        }
+      ],
+      "related_lesson": [],
+      "solution_detail": [
+        {
+          "type": "html",
+          "content": "<p>Ta c&oacute; \\(v(6) = {v_0} \\Leftrightarrow a = {v_0} + 15\\) suy ra \\(v(t) = \\dfrac{{ - 5}}{2}t + {v_0} + 15.\\)</p>\n<p>Gọi \\(n\\) l&agrave; thời điểm vật dừng hẳn, khi đ&oacute; ta c&oacute; \\(v(n) = 0 \\Leftrightarrow n = \\dfrac{2}{5}({v_0} + 15) \\Leftrightarrow n = \\dfrac{{2{v_0}}}{5} + 6.\\)</p>\n<p>Khi đ&oacute; ta c&oacute; phương tr&igrave;nh tổng qu&atilde;ng đường vật đi được l&agrave;</p>\n<p>\\(80 = 6 \\cdot {v_0} + \\int\\limits_6^n {\\left( {\\dfrac{{ - 5}}{2}t + {v_0} + 15} \\right)} dt\\)</p>\n<p>\\(\\begin{array}{l} \\Leftrightarrow 80 = 6 \\cdot {v_0} - \\dfrac{5}{4}({n^2} - {6^2}) + {v_0}(n - 6) + 15(n - 6)\\\\ \\Leftrightarrow 80 = 6 \\cdot {v_0} - \\dfrac{5}{4}\\left( {\\dfrac{{4{{\\left( {{v_0}} \\right)}^2}}}{{25}} + \\dfrac{{24{v_0}}}{{25}}} \\right) + {v_0}\\dfrac{{2{v_0}}}{5} + 15\\dfrac{{2{v_0}}}{5}\\\\ \\Leftrightarrow v_0^2 + 36{v_0} - 400 = 0 \\Leftrightarrow {v_0} = 10.\\end{array}\\)</p>"
+        }
+      ],
+      "note": [],
+      "group_id": "6750fd44bd608c5c9e877069",
+      "order": 1,
+      "sub_order": 1,
+      "idx": 202139,
+      "time_answer_question": 0
+    },
+    {
+      "_id": "6750fd9abd608c5c9e87706c",
+      "chapter": {
+        "id": "674fd218af166c5c9ef00ae5",
+        "name": "[ĐVCT] Điểm và vecto trong không gian "
+      },
+      "parent": {
+        "id": ""
+      },
+      "content_type": 2,
+      "question_type": 5,
+      "difficult_degree": 3,
+      "question": {
+        "id": "2",
+        "content": [
+          {
+            "type": "html",
+            "content": "<p>Trong kh&ocirc;ng gian hệ trục \\(Oxyz\\) cho hai điểm \\(A(1;2; - 2);B\\left( {\\dfrac{8}{3};\\dfrac{4}{3};\\dfrac{8}{3}} \\right)\\). Biết \\(I(a,b,c)\\) l&agrave; t&acirc;m của đường tr&ograve;n nội tiếp tam gi&aacute;c \\(OAB\\). T&iacute;nh gi&aacute; trị \\(a + b + c\\). (<em>nhập đ&aacute;p &aacute;n v&agrave;o &ocirc; trống</em>)</p>"
+          }
+        ],
+        "correct_answer": [
+          "2"
+        ],
+        "clean_duplicate_space": true,
+        "case_intensitive": false,
+        "trim_white_space": true,
+        "trim_characters": "",
+        "prefix_break_line": false,
+        "prefix_input": [
+          {
+            "type": "html",
+            "content": "<p>Đ&aacute;p &aacute;n:</p>"
+          }
+        ],
+        "suffix_break_line": false,
+        "suffix_input": [
+          {
+            "type": "html",
+            "content": "<p>.</p>"
+          }
+        ],
+        "quiz": "1"
+      },
+      "solution_suggesstion": [
+        {
+          "type": "html",
+          "content": "<p>T&igrave;m tọa độ điểm.</p>"
+        }
+      ],
+      "related_lesson": [],
+      "solution_detail": [
+        {
+          "type": "html",
+          "content": "<p>Ta c&oacute; \\(\\overrightarrow {OA}&nbsp; = (1;2; - 2)\\), \\(\\overrightarrow {OB}&nbsp; = \\left( {\\dfrac{8}{3};\\dfrac{4}{3};\\dfrac{8}{3}} \\right),\\) do đ&oacute; \\(OA = 3,OB = 4.\\)</p>\n<p>Gọi \\(D\\) l&agrave; ch&acirc;n đường ph&acirc;n gi&aacute;c trong kẻ từ \\(O\\), khi đ&oacute; ta c&oacute; \\(\\overrightarrow {AD}&nbsp; =&nbsp; - \\dfrac{{AD}}{{BD}} \\cdot \\overrightarrow {DB}&nbsp; =&nbsp; - \\dfrac{{OA}}{{OB}} \\cdot \\overrightarrow {DB} \\)</p>\n<p>Suy ra \\(\\overrightarrow {AD}&nbsp; =&nbsp; - \\dfrac{3}{4}\\overrightarrow {DB}&nbsp; \\Rightarrow OD = \\dfrac{{4\\overrightarrow {OA}&nbsp; + 3\\overrightarrow {OB} }}{7} \\Rightarrow D = \\left( {\\dfrac{{12}}{7};\\dfrac{{12}}{7};0} \\right)\\)</p>\n<p>Từ đ&oacute; ta c&oacute; \\(AD = \\dfrac{{15}}{7}\\)</p>\n<p>\\(\\overrightarrow {ID}&nbsp; =&nbsp; - \\dfrac{{AD}}{{AO}} \\cdot \\overrightarrow {IO}&nbsp; =&nbsp; - \\dfrac{5}{7}\\overrightarrow {IO}&nbsp; \\Rightarrow \\overrightarrow {OI}&nbsp; = \\dfrac{7}{{12}}\\overrightarrow {OD}&nbsp; \\Rightarrow I = (1;1;0)\\)</p>\n<p>Vậy \\(a + b + c = 2\\)</p>"
+        }
+      ],
+      "note": [],
+      "group_id": "6750fd9abd608c5c9e87706e",
+      "order": 1,
+      "sub_order": 1,
+      "idx": 202140,
+      "time_answer_question": 0
+    },
+    {
+      "_id": "6750fe23bd608c5c9e877071",
+      "chapter": {
+        "id": "674fd13baf166c5c9ef00ad5",
+        "name": "[ABCD] Phương trình mặt phẳng "
+      },
+      "parent": {
+        "id": ""
+      },
+      "question_style": {
+        "general": 1,
+        "mobile": 1
+      },
+      "content_type": 2,
+      "question_type": 1,
+      "difficult_degree": 3,
+      "question": {
+        "id": "2",
+        "content": [
+          {
+            "type": "html",
+            "content": "<p>Trong kh&ocirc;ng gian với hệ tọa độ \\(Oxyz\\), cho mặt phẳng \\((P):2x - 2y + z -5 = 0.\\) Viết phương tr&igrave;nh mặt phẳng \\((Q)\\) song song với mặt phẳng \\((P)\\) c&aacute;ch \\((P)\\) một khoảng bằng 3 v&agrave; c&aacute;ch trục \\(Ox\\) tại điểm c&oacute; ho&agrave;nh độ dương.</p>"
+          }
+        ],
+        "answers": [
+          {
+            "id": "3",
+            "text": [
+              {
+                "type": "html",
+                "content": "<p>\\((Q):2x - 2y + z + 4 = 0.\\)</p>"
+              }
+            ],
+            "answer_key": "a",
+            "correct": false,
+            "question": "2"
+          },
+          {
+            "id": "4",
+            "text": [
+              {
+                "type": "html",
+                "content": "<p>\\((Q):2x - 2y + z - 14 = 0.\\)</p>"
+              }
+            ],
+            "answer_key": "b",
+            "correct": true,
+            "question": "2"
+          },
+          {
+            "id": "5",
+            "text": [
+              {
+                "type": "html",
+                "content": "<p>\\((Q):2x - 2y + z - 19 = 0.\\)</p>"
+              }
+            ],
+            "answer_key": "c",
+            "correct": false,
+            "question": "2"
+          },
+          {
+            "id": "6",
+            "text": [
+              {
+                "type": "html",
+                "content": "<p>\\((Q):2x - 2y + z - 8 = 0.\\)</p>"
+              }
+            ],
+            "answer_key": "d",
+            "correct": false,
+            "question": "2"
+          }
+        ],
+        "quiz": "1"
+      },
+      "solution_suggesstion": [
+        {
+          "type": "html",
+          "content": "<p>X&aacute;c định phương tr&igrave;nh đường thẳng.</p>"
+        }
+      ],
+      "related_lesson": [],
+      "solution_detail": [
+        {
+          "type": "html",
+          "content": "<p>V&igrave; \\((Q)\\) song song \\((P)\\) với suy ra phương tr&igrave;nh mặt phẳng của \\((Q)\\) c&oacute; dạng \\((Q):2x - 2y + z + C = 0,C \\ne&nbsp; - 5.\\)</p>\n<p>Ta chọn điểm \\(M(0;0;5) \\in (P)\\)</p>\n<p>Ta c&oacute; \\(d((P);(Q)) = d(M;(Q)) = \\dfrac{{\\left| {5 + C} \\right|}}{{\\sqrt {{2^2} + {{( - 2)}^2} + {1^2}} }} = 3 \\Rightarrow \\left[ \\begin{array}{l}C = 4\\\\C =&nbsp; - 14\\end{array} \\right.\\)</p>\n<p>Với \\(C = 4\\) th&igrave; \\((Q)\\) cắt \\(Ox\\) tại điểm \\({M_1}( - 2;0;0)\\) c&oacute; ho&agrave;nh độ &acirc;m n&ecirc;n kh&ocirc;ng thỏa m&atilde;n</p>\n<p>Với \\(C =&nbsp; - 14\\) cắt \\(Ox\\) tại điểm \\({M_1}(7;0;0)\\) c&oacute; ho&agrave;nh độ dương do đ&oacute; thỏa m&atilde;n đề b&agrave;i.</p>\n<p>Vật phương tr&igrave;nh mặt phẳng \\((Q):2x - 2y + z - 14.\\)</p>"
+        }
+      ],
+      "note": [],
+      "group_id": "6750fe23bd608c5c9e877073",
+      "order": 1,
+      "sub_order": 1,
+      "idx": 202141,
+      "time_answer_question": 0
+    },
+    {
+      "_id": "6750feb0bd608c5c9e877076",
+      "chapter": {
+        "id": "674fcbc3af166c5c9ef00a98",
+        "name": "[ABCD] Điểm và véctơ trong không gian"
+      },
+      "parent": {
+        "id": ""
+      },
+      "question_style": {
+        "general": 1,
+        "mobile": 1
+      },
+      "content_type": 2,
+      "question_type": 1,
+      "difficult_degree": 2,
+      "question": {
+        "id": "2",
+        "content": [
+          {
+            "type": "html",
+            "content": "<p>Trong kh&ocirc;ng gian với hệ tọa độ \\(Oxyz\\), cho bốn điểm \\(A(0; - 2;1);B(1;0; - 2);C(3;1; - 2);D( - 2; - 2; - 1).\\) Khẳng định n&agrave;o dưới đ&acirc;y <strong>sai?</strong></p>"
+          }
+        ],
+        "answers": [
+          {
+            "id": "3",
+            "text": [
+              {
+                "type": "html",
+                "content": "<p>Bốn điểm \\(A,B,C,D\\) kh&ocirc;ng đồng phẳng.</p>"
+              }
+            ],
+            "answer_key": "a",
+            "correct": true,
+            "question": "2"
+          },
+          {
+            "id": "4",
+            "text": [
+              {
+                "type": "html",
+                "content": "<p>Tam gi&aacute;c \\(ACD\\) l&agrave; tam gi&aacute;c vu&ocirc;ng tại \\(A\\)<strong>.</strong></p>"
+              }
+            ],
+            "answer_key": "b",
+            "correct": false,
+            "question": "2"
+          },
+          {
+            "id": "5",
+            "text": [
+              {
+                "type": "html",
+                "content": "<p>Tam gi&aacute;c l&agrave; tam \\(ABD\\) gi&aacute;c c&acirc;n tại \\(B\\).</p>"
+              }
+            ],
+            "answer_key": "c",
+            "correct": false,
+            "question": "2"
+          },
+          {
+            "id": "6",
+            "text": [
+              {
+                "type": "html",
+                "content": "<p>G&oacute;c giữa hai vectơ \\(\\overrightarrow {AB} \\) v&agrave; \\(\\overrightarrow {CD} \\) l&agrave; g&oacute;c t&ugrave;.</p>"
+              }
+            ],
+            "answer_key": "d",
+            "correct": false,
+            "question": "2"
+          }
+        ],
+        "quiz": "1"
+      },
+      "solution_suggesstion": [
+        {
+          "type": "html",
+          "content": "<p>Sử dụng c&aacute;c ph&eacute;p to&aacute;n vecto</p>"
+        }
+      ],
+      "related_lesson": [],
+      "solution_detail": [
+        {
+          "type": "html",
+          "content": "<p>\\(\\overrightarrow {AB}&nbsp; = (1;2; - 3);\\overrightarrow {CD}&nbsp; = ( - 5; - 3;1);\\overrightarrow {AC}&nbsp; = (3;3; - 3);\\overrightarrow {BD}&nbsp; = ( - 3; - 2;1);\\overrightarrow {AD}&nbsp; = ( - 2;0; - 2)\\)</p>\n<p>Ta c&oacute; : \\(\\left[ {\\overrightarrow {AB} ,\\overrightarrow {AC} } \\right] = (3; - 6; - 3) \\Rightarrow \\left[ {\\overrightarrow {AB} ,\\overrightarrow {AC} } \\right] \\cdot \\overrightarrow {AD}&nbsp; = ( - 2).3 + 0.6 + ( - 2).( - 3) = 0.\\)</p>\n<p>Suy ra \\(\\overrightarrow {AB} ,\\overrightarrow {AC} ,\\overrightarrow {AD} \\) đồng phẳng hay bốn điểm \\(A,B,C,D\\) đồng phẳng.</p>\n<p>Vậy đ&aacute;p &aacute;n A sai.</p>"
+        }
+      ],
+      "note": [],
+      "group_id": "6750feb0bd608c5c9e877078",
+      "order": 1,
+      "sub_order": 1,
+      "idx": 202142,
+      "time_answer_question": 0
+    },
+    {
+      "_id": "67510103bd608c5c9e87707c",
+      "chapter": {
+        "id": "674fd12caf166c5c9ef00ad3",
+        "name": "[ABCD] Phương trình đường thẳng "
+      },
+      "parent": {
+        "id": ""
+      },
+      "question_style": {
+        "general": 1,
+        "mobile": 1
+      },
+      "content_type": 2,
+      "question_type": 1,
+      "difficult_degree": 1,
+      "question": {
+        "id": "2",
+        "content": [
+          {
+            "type": "html",
+            "content": "<p>Trong kh&ocirc;ng gian \\(Oxyz\\), cho đường thẳng \\(d:\\left\\{ \\begin{array}{l}x = 2 + t\\\\y = 1 - 2t\\\\z =&nbsp; - 1 + 3t\\end{array} \\right..\\) Vectơ n&agrave;o dưới đ&acirc;y l&agrave; một vectơ chỉ phương của \\(d?\\)</p>"
+          }
+        ],
+        "answers": [
+          {
+            "id": "3",
+            "text": [
+              {
+                "type": "html",
+                "content": "<p>\\(\\overrightarrow u&nbsp; = (2;1; - 1).\\)</p>"
+              }
+            ],
+            "answer_key": "a",
+            "correct": false,
+            "question": "2"
+          },
+          {
+            "id": "4",
+            "text": [
+              {
+                "type": "html",
+                "content": "<p>\\(\\overrightarrow u&nbsp; = (2;1;3).\\)</p>"
+              }
+            ],
+            "answer_key": "b",
+            "correct": false,
+            "question": "2"
+          },
+          {
+            "id": "5",
+            "text": [
+              {
+                "type": "html",
+                "content": "<p>\\(\\overrightarrow u&nbsp; = (1; - 2;3).\\)</p>"
+              }
+            ],
+            "answer_key": "c",
+            "correct": true,
+            "question": "2"
+          },
+          {
+            "id": "6",
+            "text": [
+              {
+                "type": "html",
+                "content": "<p>\\(\\overrightarrow u&nbsp; = (3;1; - 1).\\)</p>"
+              }
+            ],
+            "answer_key": "d",
+            "correct": false,
+            "question": "2"
+          }
+        ],
+        "quiz": "1"
+      },
+      "solution_suggesstion": [
+        {
+          "type": "html",
+          "content": "<p>Định nghĩa phương tr&igrave;nh đường thẳng tham số</p>"
+        }
+      ],
+      "related_lesson": [],
+      "solution_detail": [
+        {
+          "type": "html",
+          "content": "<p>\\(\\overrightarrow u&nbsp; = (1; - 2;3).\\) l&agrave; vecto chỉ phương của \\(d\\)</p>"
+        }
+      ],
+      "note": [],
+      "group_id": "67510103bd608c5c9e87707e",
+      "order": 1,
+      "sub_order": 1,
+      "idx": 202143,
+      "time_answer_question": 0
+    },
+    {
+      "_id": "67510202bd608c5c9e877085",
+      "chapter": {
+        "id": "67510161af166c5c9ef00b9a",
+        "name": "[ABCD] Bài toán gắn hệ trục tọa độ "
+      },
+      "parent": {
+        "id": ""
+      },
+      "question_style": {
+        "general": 1,
+        "mobile": 1
+      },
+      "content_type": 2,
+      "question_type": 1,
+      "difficult_degree": 3,
+      "question": {
+        "id": "2",
+        "content": [
+          {
+            "type": "html",
+            "content": "<p>Cho h&igrave;nh ch&oacute;p \\(S.ABCD\\) c&oacute; đ&aacute;y \\(ABCD\\) l&agrave; h&igrave;nh vu&ocirc;ng c&oacute; độ d&agrave;i đường ch&eacute;o bằng \\(a\\sqrt 2 \\) v&agrave; \\(SA\\) vu&ocirc;ng g&oacute;c với mặt phẳng \\((ABCD)\\). Gọi \\(\\alpha \\) l&agrave; g&oacute;c giữa hai mặt phẳng \\((SBD)\\) v&agrave; \\((ABCD)\\). Nếu \\(\\tan \\alpha&nbsp; = \\sqrt 2 \\) th&igrave; g&oacute;c giữa hai mặt phẳng \\((SAC)\\) v&agrave; \\((SBC)\\) bằng.</p>"
+          }
+        ],
+        "answers": [
+          {
+            "id": "3",
+            "text": [
+              {
+                "type": "html",
+                "content": "<p>\\({30^o}.\\)</p>"
+              }
+            ],
+            "answer_key": "a",
+            "correct": false,
+            "question": "2"
+          },
+          {
+            "id": "4",
+            "text": [
+              {
+                "type": "html",
+                "content": "<p>\\({60^o}.\\)</p>"
+              }
+            ],
+            "answer_key": "b",
+            "correct": true,
+            "question": "2"
+          },
+          {
+            "id": "5",
+            "text": [
+              {
+                "type": "html",
+                "content": "<p>\\({45^0}.\\)</p>"
+              }
+            ],
+            "answer_key": "c",
+            "correct": false,
+            "question": "2"
+          },
+          {
+            "id": "6",
+            "text": [
+              {
+                "type": "html",
+                "content": "<p>\\({90^0}\\)</p>"
+              }
+            ],
+            "answer_key": "d",
+            "correct": false,
+            "question": "2"
+          }
+        ],
+        "quiz": "1"
+      },
+      "solution_suggesstion": [
+        {
+          "type": "html",
+          "content": "<p>Gắn hệ trục tọa độ \\(Oxyz\\)</p>"
+        }
+      ],
+      "related_lesson": [],
+      "solution_detail": [
+        {
+          "type": "html",
+          "content": "<p><img src=\"https://cdn.vungoi.vn/vungoi/2024/1205/1733362152460_mceclip0.png\" /></p>\n<p>Gọi \\(I = AC \\cap BD.\\)</p>\n<p>H&igrave;nh vu&ocirc;ng \\(ABCD\\) c&oacute; độ d&agrave;i đường ch&eacute;o bằng \\(a\\sqrt 2 \\) suy ra h&igrave;nh vu&ocirc;ng đ&oacute; c&oacute; cạnh bằng \\(a\\).</p>\n<p>Ta c&oacute;</p>\n<p>Ta c&oacute; \\(\\tan \\alpha&nbsp; = \\tan \\widehat {SIA} = \\dfrac{{SA}}{{IA}} \\Leftrightarrow SA = a\\)</p>\n<p>Chọn hệ trục tọa độ như h&igrave;nh vẽ ta c&oacute; \\(A(0;0;0),B(a;0;0),C(a;a;0),S(0;0;a).\\)</p>\n<p>Khi đ&oacute; \\(\\overrightarrow {SA}&nbsp; = (0;0; - a);\\overrightarrow {SC}&nbsp; = (a;a; - a);\\overrightarrow {SC}&nbsp; = (a;0; - a).\\)</p>\n<p>Mặt phẳng \\((SAC)\\) c&oacute; vec tơ ph&aacute;p tuyến \\({n_1} = ( - 1;1;0).\\)</p>\n<p>Mặt phẳng&nbsp; \\((SBC)\\) c&oacute; vec tơ ph&aacute;p tuyến \\({n_2} = (1;0;1).\\)</p>\n<p>Suy ra \\(\\cos \\left( {\\widehat {(SAC);(SBC)}} \\right) = \\dfrac{{\\left| {\\overrightarrow {{n_1}}&nbsp; \\cdot \\overrightarrow {{n_2}} } \\right|}}{{\\left| {\\overrightarrow {{n_1}} } \\right| \\cdot \\left| {\\overrightarrow {{n_2}} } \\right|}} = \\dfrac{1}{2} \\Rightarrow \\left( {\\widehat {(SAC);(SBC)}} \\right) = {60^0}.\\)</p>"
+        }
+      ],
+      "note": [],
+      "group_id": "67510202bd608c5c9e877087",
+      "order": 1,
+      "sub_order": 1,
+      "idx": 202144,
+      "time_answer_question": 0
+    },
+    {
+      "_id": "67510255bd608c5c9e87708a",
+      "chapter": {
+        "id": "674fd14caf166c5c9ef00ad7",
+        "name": "[ABCD] Phương trình mặt cầu "
+      },
+      "parent": {
+        "id": ""
+      },
+      "question_style": {
+        "general": 1,
+        "mobile": 1
+      },
+      "content_type": 2,
+      "question_type": 1,
+      "difficult_degree": 2,
+      "question": {
+        "id": "2",
+        "content": [
+          {
+            "type": "html",
+            "content": "<p>Trong kh&ocirc;ng gian \\(Oxyz\\), c&oacute; tất cả bao nhi&ecirc;u gi&aacute; trị nguy&ecirc;n của \\(m\\) để \\({x^2} + {y^2} + {z^2} + 2 \\cdot (m + 2) \\cdot x - 2 \\cdot (m - 1) \\cdot z + 3{m^2} - 5 = 0\\) l&agrave; phương tr&igrave;nh một mặt cầu?</p>"
+          }
+        ],
+        "answers": [
+          {
+            "id": "3",
+            "text": [
+              {
+                "type": "html",
+                "content": "<p>\\(4.\\)</p>"
+              }
+            ],
+            "answer_key": "a",
+            "correct": false,
+            "question": "2"
+          },
+          {
+            "id": "4",
+            "text": [
+              {
+                "type": "html",
+                "content": "<p>\\(6.\\)</p>"
+              }
+            ],
+            "answer_key": "b",
+            "correct": false,
+            "question": "2"
+          },
+          {
+            "id": "5",
+            "text": [
+              {
+                "type": "html",
+                "content": "<p>\\(5.\\)</p>"
+              }
+            ],
+            "answer_key": "c",
+            "correct": false,
+            "question": "2"
+          },
+          {
+            "id": "6",
+            "text": [
+              {
+                "type": "html",
+                "content": "<p>\\(7.\\)</p>"
+              }
+            ],
+            "answer_key": "d",
+            "correct": true,
+            "question": "2"
+          }
+        ],
+        "quiz": "1"
+      },
+      "solution_suggesstion": [
+        {
+          "type": "html",
+          "content": "<p>X&aacute;c định phương tr&igrave;nh mặt cầu</p>"
+        }
+      ],
+      "related_lesson": [],
+      "solution_detail": [
+        {
+          "type": "html",
+          "content": "<p>Phương tr&igrave;nh đ&atilde; cho l&agrave; phương tr&igrave;nh cầu khi v&agrave; chỉ khi</p>\n<p>\\(\\begin{array}{l}{(m + 2)^2} + {(m - 1)^2} - 3{m^2} + 5 &gt; 0\\\\ \\Leftrightarrow {m^2} - 2m - 10 &lt; 0\\\\ \\Leftrightarrow&nbsp; - 1 - \\sqrt {11}&nbsp; &lt; m &lt; 1 + \\sqrt {11} \\end{array}\\)</p>\n<p>Vậy c&oacute; 7 gi&aacute; trị của \\(m\\) nguy&ecirc;n thỏa m&atilde;n b&agrave;i to&aacute;n \\(m \\in \\left\\{ { - 2; - 1;0;1;2;3;4} \\right\\}\\)</p>"
+        }
+      ],
+      "note": [],
+      "group_id": "67510255bd608c5c9e87708c",
+      "order": 1,
+      "sub_order": 1,
+      "idx": 202145,
+      "time_answer_question": 0
+    },
+    {
+      "_id": "675102acbd608c5c9e87708f",
+      "chapter": {
+        "id": "674fd182af166c5c9ef00adb",
+        "name": "[ABCD] Cực trị hình học "
+      },
+      "parent": {
+        "id": ""
+      },
+      "question_style": {
+        "general": 1,
+        "mobile": 1
+      },
+      "content_type": 2,
+      "question_type": 1,
+      "difficult_degree": 4,
+      "question": {
+        "id": "2",
+        "content": [
+          {
+            "type": "html",
+            "content": "<p>Trong kh&ocirc;ng gian \\(Oxyz\\), cho ba điểm \\(A\\left( {1;1;1} \\right)\\), \\(B\\left( {1;2;2} \\right)\\) v&agrave; \\(M\\left( { - 4;7;3} \\right)\\). Mặt cầu \\(\\left( S \\right)\\) đi qua hai điểm \\(A,B\\) v&agrave; tiếp x&uacute;c với mặt phẳng \\(\\left( {Oxy} \\right)\\) tại điểm \\(C\\). Độ d&agrave;i lớn nhất của đoạn thẳng MC gần với gi&aacute; trị n&agrave;o sau đ&acirc;y?</p>"
+          }
+        ],
+        "answers": [
+          {
+            "id": "3",
+            "text": [
+              {
+                "type": "html",
+                "content": "<p>10</p>"
+              }
+            ],
+            "answer_key": "a",
+            "correct": false,
+            "question": "2"
+          },
+          {
+            "id": "4",
+            "text": [
+              {
+                "type": "html",
+                "content": "<p>11.</p>"
+              }
+            ],
+            "answer_key": "b",
+            "correct": true,
+            "question": "2"
+          },
+          {
+            "id": "5",
+            "text": [
+              {
+                "type": "html",
+                "content": "<p>12.</p>"
+              }
+            ],
+            "answer_key": "c",
+            "correct": false,
+            "question": "2"
+          },
+          {
+            "id": "6",
+            "text": [
+              {
+                "type": "html",
+                "content": "<p>9.</p>"
+              }
+            ],
+            "answer_key": "d",
+            "correct": false,
+            "question": "2"
+          }
+        ],
+        "quiz": "1"
+      },
+      "solution_suggesstion": [
+        {
+          "type": "html",
+          "content": "<p>Cực trị h&igrave;nh học.</p>"
+        }
+      ],
+      "related_lesson": [],
+      "solution_detail": [
+        {
+          "type": "html",
+          "content": "<p>Gọi t&acirc;m của mặt cầu \\(\\left( S \\right)\\) l&agrave; \\(I\\left( {x;y;z} \\right)\\)</p>\n<p>Theo b&agrave;i ra ta c&oacute; \\(C\\) l&agrave; h&igrave;nh chiếu vu&ocirc;ng g&oacute;c của \\(I\\) l&ecirc;n mặt phẳng \\(\\left( {Oxy} \\right)\\), suy ra \\(C\\left( {x;y;0} \\right)\\)</p>\n<p>Gọi l&agrave; H &igrave;nh chiếu vu&ocirc;ng g&oacute;c của \\(M\\) l&ecirc;n mặt phẳng \\(\\left( {Oxy} \\right)\\), khi đ&oacute; \\(H\\left( { - 4;7;0} \\right)\\) v&agrave; \\(HM = 3\\)</p>\n<p>Ta c&oacute;: \\(\\left\\{ \\begin{array}{l}A{I^2} = B{I^2}\\\\A{I^2} = CI{}^2\\end{array} \\right. \\Rightarrow \\left\\{ \\begin{array}{l}y + z - 3=0\\\\x + y - 2x - 2y - 2z + 3 = 0\\end{array} \\right. \\Rightarrow {\\left( {x - 1} \\right)^2} + {y^2} = 4\\)</p>\n<p>Vậy \\(C\\) thuộc đường tr&ograve;n c&oacute; t&acirc;m \\(I'\\left( {1;0;0} \\right)\\) v&agrave; b&aacute;n k&iacute;nh \\(r = 2\\) v&agrave; c&oacute; \\(HI' = \\sqrt {74} \\)</p>\n<p>Ta c&oacute; \\(M{C^2} = M{H^2} + H{C^2} = 4 + H{C^2}\\)</p>\n<p>Khi đ&oacute; \\(MC\\)đạt gi&aacute; trị lớn nhất khi \\(HC\\) đạt gi&aacute; trị lớn nhất</p>\n<p>Ta c&oacute; \\(HC \\le HI' + r = \\sqrt {74}&nbsp; + 2\\)</p>\n<p>Vậy \\(MC\\) lớn nhất khi \\(MC = \\sqrt {4 + H{C^2}}&nbsp; \\approx 10,79\\)</p>"
+        }
+      ],
+      "note": [],
+      "group_id": "675102acbd608c5c9e877091",
+      "order": 1,
+      "sub_order": 1,
+      "idx": 202146,
+      "time_answer_question": 0
+    },
+    {
+      "_id": "67510308bd608c5c9e877094",
+      "chapter": {
+        "id": "674fd2c9af166c5c9ef00aef",
+        "name": "[ĐVCT] Bài toán về đường thẳng, mặt phẳng và mặt cầu"
+      },
+      "parent": {
+        "id": ""
+      },
+      "content_type": 2,
+      "question_type": 5,
+      "difficult_degree": 3,
+      "question": {
+        "id": "2",
+        "content": [
+          {
+            "type": "html",
+            "content": "<p>Trong kh&ocirc;ng gian \\(Oxyz\\), cho mặt cầu \\(\\left( S \\right):{\\left( {x - 1} \\right)^2} + {\\left( {y + 2} \\right)^2} + {\\left( {z + 3} \\right)^2} = 25\\) v&agrave; điểm \\(A\\left( {0;1; - 5} \\right)\\). Mặt phẳng \\(\\left( P \\right)\\) đi qua điểm \\(A\\), cắt \\(\\left( S \\right)\\) theo giao tuyến l&agrave; đường tr&ograve;n c&oacute; b&aacute;n k&iacute;nh nhỏ nhất c&oacute; phương tr&igrave;nh l&agrave; \\(ax + by + cz + d = 0\\left( {a,b,c,d \\in \\mathbb{Z}} \\right).\\) T&iacute;nh gi&aacute; trị biểu thức \\(T = a + b + c + d.\\) (<em>nhập đ&aacute;p &aacute;n v&agrave;o &ocirc; trống</em>)</p>"
+          }
+        ],
+        "correct_answer": [
+          "13"
+        ],
+        "clean_duplicate_space": true,
+        "case_intensitive": false,
+        "trim_white_space": true,
+        "trim_characters": "",
+        "prefix_break_line": false,
+        "prefix_input": [
+          {
+            "type": "html",
+            "content": "<p>Đ&aacute;p &aacute;n:</p>"
+          }
+        ],
+        "suffix_break_line": false,
+        "suffix_input": [
+          {
+            "type": "html",
+            "content": "<p>.</p>"
+          }
+        ],
+        "quiz": "1"
+      },
+      "solution_suggesstion": [
+        {
+          "type": "html",
+          "content": "<p>T&igrave;m giao tuyến v&agrave; viết phương tr&igrave;nh mặt phẳng.</p>"
+        }
+      ],
+      "related_lesson": [],
+      "solution_detail": [
+        {
+          "type": "html",
+          "content": "<p>Mặt cầu \\(\\left( S \\right)\\) c&oacute; t&acirc;m \\(I\\left( {1; - 2; - 3} \\right)\\) v&agrave; b&aacute;n k&iacute;nh \\(R = 5\\).</p>\n<p>Gọi \\(H\\) l&agrave; h&igrave;nh chiếu vu&ocirc;ng g&oacute;c của \\(I\\) l&ecirc;n mặt phẳng \\(\\left( P \\right)\\)</p>\n<p>Suy ra \\(\\left( P \\right)\\) cắt \\(\\left( S \\right)\\) theo giao tuyến l&agrave; một đường tr&ograve;n b&aacute;n k&iacute;nh \\(r = \\sqrt {{R^2} - H{I^2}} .\\)</p>\n<p>Khi đ&oacute; \\({r_{\\min }} \\Leftrightarrow H{I_{\\max }}\\), m&agrave; \\(HI \\le AI\\) suy ra&nbsp; \\(H{I_{\\max }} = AI \\Leftrightarrow HA\\)</p>\n<p>\\(\\overrightarrow {AI}&nbsp; = \\left( {1; - 3;2} \\right)\\) l&agrave; v&eacute;ctơ ph&aacute;p tuyến của mặt phẳng \\(\\left( P \\right)\\).</p>\n<p>Do đ&oacute; phương tr&igrave;nh của mặt phẳng \\(\\left( P \\right)\\) l&agrave; \\(x - 3y + 2z + 13 = 0\\)</p>\n<p><strong>Vậy </strong>\\(a = 1,b =&nbsp; - 3,c = 2,d = 13\\)<strong>. </strong>\\(T = 1 - 3 + 2 + 6 = 13\\)</p>"
+        }
+      ],
+      "note": [],
+      "group_id": "67510308bd608c5c9e877096",
+      "order": 1,
+      "sub_order": 1,
+      "idx": 202147,
+      "time_answer_question": 0
+    },
+    {
+      "_id": "67510358bd608c5c9e877099",
+      "chapter": {
+        "id": "674fc023af166c5c9ef00a05",
+        "name": "[ABCD] Mẫu số liệu ghép nhóm"
+      },
+      "parent": {
+        "id": ""
+      },
+      "question_style": {
+        "general": 1,
+        "mobile": 1
+      },
+      "content_type": 2,
+      "question_type": 1,
+      "difficult_degree": 2,
+      "question": {
+        "id": "2",
+        "content": [
+          {
+            "type": "html",
+            "content": "<p>Một vườn th&uacute; ghi lại tuổi thọ ( đơn vị: năm) của 40 con khỉ v&agrave; ghi lại kết quả như sau:</p>\n<table>\n<tbody>\n<tr>\n<td width=\"104\">\n<p>Tuổi thọ</p>\n</td>\n<td width=\"104\">\n<p>\\(\\left[ {10;11} \\right)\\)</p>\n</td>\n<td width=\"104\">\n<p>\\(\\left[ {11;12} \\right)\\)</p>\n</td>\n<td width=\"104\">\n<p>\\(\\left[ {12;13} \\right)\\)</p>\n</td>\n<td width=\"104\">\n<p>\\(\\left[ {13;14} \\right)\\)</p>\n</td>\n<td width=\"104\">\n<p>\\(\\left[ {14;15} \\right)\\)</p>\n</td>\n</tr>\n<tr>\n<td width=\"104\">\n<p>Số con khỉ</p>\n</td>\n<td width=\"104\">\n<p>4</p>\n</td>\n<td width=\"104\">\n<p>9</p>\n</td>\n<td width=\"104\">\n<p>14</p>\n</td>\n<td width=\"104\">\n<p>10</p>\n</td>\n<td width=\"104\">\n<p>3</p>\n</td>\n</tr>\n</tbody>\n</table>\n<p><br />Nh&oacute;m chứa tứ ph&acirc;n vị thứ ba l&agrave;:</p>"
+          }
+        ],
+        "answers": [
+          {
+            "id": "3",
+            "text": [
+              {
+                "type": "html",
+                "content": "<p>\\(\\left[ {10;11} \\right)\\)</p>"
+              }
+            ],
+            "answer_key": "a",
+            "correct": false,
+            "question": "2"
+          },
+          {
+            "id": "4",
+            "text": [
+              {
+                "type": "html",
+                "content": "<p>\\(\\left[ {11;12} \\right)\\)</p>"
+              }
+            ],
+            "answer_key": "b",
+            "correct": false,
+            "question": "2"
+          },
+          {
+            "id": "5",
+            "text": [
+              {
+                "type": "html",
+                "content": "<p>\\(\\left[ {13;14} \\right)\\)</p>"
+              }
+            ],
+            "answer_key": "c",
+            "correct": true,
+            "question": "2"
+          },
+          {
+            "id": "6",
+            "text": [
+              {
+                "type": "html",
+                "content": "<p>\\(\\left[ {14;15} \\right)\\)</p>"
+              }
+            ],
+            "answer_key": "d",
+            "correct": false,
+            "question": "2"
+          }
+        ],
+        "quiz": "1"
+      },
+      "solution_suggesstion": [
+        {
+          "type": "html",
+          "content": "<p>C&ocirc;ng thức t&iacute;nh tứ ph&acirc;n vị</p>"
+        }
+      ],
+      "related_lesson": [],
+      "solution_detail": [
+        {
+          "type": "html",
+          "content": "<p>Ta c&oacute; \\(n = 40\\). Khi đ&oacute; \\(\\dfrac{3}{4} \\cdot 40 = 30\\) v&agrave; \\(4 + 9 + 14 &lt; 30 &lt; 4 + 9 + 14 + 10\\).<br />Vậy tứ ph&acirc;n vị thứ ba thuộc nh&oacute;m \\(\\left[ {13;14} \\right)\\).</p>"
+        }
+      ],
+      "note": [],
+      "group_id": "67510358bd608c5c9e87709b",
+      "order": 2,
+      "sub_order": 1,
+      "idx": 202148,
+      "time_answer_question": 0
+    },
+    {
+      "_id": "67510403bd608c5c9e87709e",
+      "chapter": {
+        "id": "674fc096af166c5c9ef00a0f",
+        "name": "[ĐVCT] Xác suất có điều kiện"
+      },
+      "parent": {
+        "id": ""
+      },
+      "content_type": 2,
+      "question_type": 5,
+      "difficult_degree": 3,
+      "question": {
+        "id": "2",
+        "content": [
+          {
+            "type": "html",
+            "content": "<p>Trong cơ quan c&oacute; 100 người. Trong đ&oacute; c&oacute; 60 người nh&agrave; gần cơ quan, trong 60 người n&agrave;y c&oacute; 40 người l&agrave; nam. C&oacute; tổng cộng 30 nh&acirc;n vi&ecirc;n nữ trong cơ quan. Theo quy định của cơ quan th&igrave; người n&agrave;o hoặc l&agrave; nam hoặc l&agrave; nh&agrave; gần cơ quan sẽ phải tham gia trực. T&iacute;nh x&aacute;c suất để chọn ngẫu nhi&ecirc;n một người trong danh s&aacute;ch m&agrave; người đ&oacute; l&agrave; nữ trực cơ quan. ( <em>nhập đ&aacute;p &aacute;n v&agrave;o &ocirc; trống</em>)</p>"
+          }
+        ],
+        "correct_answer": [
+          "2/9"
+        ],
+        "clean_duplicate_space": true,
+        "case_intensitive": false,
+        "trim_white_space": true,
+        "trim_characters": "",
+        "prefix_break_line": false,
+        "prefix_input": [
+          {
+            "type": "html",
+            "content": "<p>Đ&aacute;p &aacute;n:</p>"
+          }
+        ],
+        "suffix_break_line": false,
+        "suffix_input": [
+          {
+            "type": "html",
+            "content": "<p>.</p>"
+          }
+        ],
+        "quiz": "1"
+      },
+      "solution_suggesstion": [
+        {
+          "type": "html",
+          "content": "<p>X&aacute;c suất c&oacute; điều kiện.</p>"
+        }
+      ],
+      "related_lesson": [],
+      "solution_detail": [
+        {
+          "type": "html",
+          "content": "<p>Trong 60 người gần cơ quan th&igrave; c&oacute; 40 nam, suy ra c&oacute; 60 &ndash; 40 = 20 người l&agrave; nữ, gần cơ quan.</p>\n<p>Như vậy c&oacute; 10 nữ xa cơ quan.</p>\n<p>Khi đ&oacute;, x&aacute;c suất chọn được nữ trực cơ quan l&agrave; : 20/90=2/9<br />.</p>\n<p>&nbsp;</p>"
+        }
+      ],
+      "note": [],
+      "group_id": "67510403bd608c5c9e8770a0",
+      "order": 1,
+      "sub_order": 1,
+      "idx": 202149,
+      "time_answer_question": 0
+    },
+    {
+      "_id": "675104c1bd608c5c9e8770a3",
+      "chapter": {
+        "id": "674fc9faaf166c5c9ef00a85",
+        "name": "[ABCD] Xác suất đầy đủ - Bayes"
+      },
+      "parent": {
+        "id": ""
+      },
+      "question_style": {
+        "general": 1,
+        "mobile": 1
+      },
+      "content_type": 2,
+      "question_type": 1,
+      "difficult_degree": 3,
+      "question": {
+        "id": "2",
+        "content": [
+          {
+            "type": "html",
+            "content": "<p>Giả sử \\(10\\% \\) thư điện tử (email) của bạn nh&acirc;n được l&agrave; thư r&aacute;c. Bạn sử dụng một hệ thống lọc thư điện tử r&aacute;c m&agrave; khả năng lọc đ&uacute;ng thư r&aacute;c của hệ thống n&agrave;y l&agrave; \\(95\\% \\) v&agrave; c&oacute; \\(10\\% \\) những thư kh&ocirc;ng phải l&agrave; thư r&aacute;c nhưng v&atilde;n bị lọc. X&aacute;c suất chọn một thư trong số những thư bị lọc thực sự l&agrave; thư r&aacute;c l&agrave;:</p>"
+          }
+        ],
+        "answers": [
+          {
+            "id": "3",
+            "text": [
+              {
+                "type": "html",
+                "content": "<p>\\(\\dfrac{{18}}{{37}}.\\)</p>"
+              }
+            ],
+            "answer_key": "a",
+            "correct": false,
+            "question": "2"
+          },
+          {
+            "id": "4",
+            "text": [
+              {
+                "type": "html",
+                "content": "<p>\\(\\dfrac{1}{2}.\\)</p>"
+              }
+            ],
+            "answer_key": "b",
+            "correct": false,
+            "question": "2"
+          },
+          {
+            "id": "5",
+            "text": [
+              {
+                "type": "html",
+                "content": "<p>\\(\\dfrac{{19}}{{37}}.\\)</p>"
+              }
+            ],
+            "answer_key": "c",
+            "correct": true,
+            "question": "2"
+          },
+          {
+            "id": "6",
+            "text": [
+              {
+                "type": "html",
+                "content": "<p>\\(\\dfrac{{19}}{{36}}.\\)</p>"
+              }
+            ],
+            "answer_key": "d",
+            "correct": false,
+            "question": "2"
+          }
+        ],
+        "quiz": "1"
+      },
+      "solution_suggesstion": [
+        null,
+        {
+          "type": "html",
+          "content": "<p>X&aacute;c suất đầy đủ</p>"
+        }
+      ],
+      "related_lesson": [],
+      "solution_detail": [
+        {
+          "type": "html",
+          "content": "<p>Gọi A l&agrave; biến cố &ldquo;thư nhận được l&agrave; thư r&aacute;c&rdquo;</p>\n<p>B l&agrave; biến cố &ldquo;thư bị lọc đ&uacute;ng thư r&aacute;c của hệ thống lọc thư r&aacute;c&rdquo;</p>\n<p>Ta c&oacute; \\(P\\left( A \\right) = 0,1\\) \\( \\Rightarrow P\\left( {\\overline A } \\right) = 0,9\\)</p>\n<p>X&aacute;c suất thư bị lọc của thư r&aacute;c l&agrave;: \\(P\\left( {B|A} \\right) = 0,95\\)</p>\n<p>X&aacute;c suất thư bị lọc kh&ocirc;ng phải l&agrave; thư r&aacute;c l&agrave;: \\(P\\left( {B|\\overline A } \\right) = 0,1\\)</p>\n<p>Khi đ&oacute; \\(P\\left( B \\right) = P\\left( A \\right) \\cdot P\\left( {B|A} \\right) + P\\left( {\\overline A } \\right) \\cdot P\\left( {B|\\overline A } \\right) = 0,185.\\)</p>\n<p>X&aacute;c suất chọn một thư trong số những thư bị lọc thực sự l&agrave; thư r&aacute;c l&agrave;:</p>\n<p>\\(P\\left( {A|B} \\right) = \\dfrac{{P\\left( {B|A} \\right) \\cdot P\\left( A \\right)}}{{P\\left( B \\right)}} = \\dfrac{{19}}{{37}}.\\)</p>"
+        }
+      ],
+      "note": [],
+      "group_id": "675104c1bd608c5c9e8770a5",
+      "order": 1,
+      "sub_order": 1,
+      "idx": 202150,
+      "time_answer_question": 0
+    },
+    {
+      "_id": "67510565bd608c5c9e8770d5",
+      "chapter": {
+        "id": "674fd0caaf166c5c9ef00acd",
+        "name": "[ĐVCT] Số học "
+      },
+      "parent": {
+        "id": ""
+      },
+      "content_type": 2,
+      "question_type": 5,
+      "difficult_degree": 3,
+      "question": {
+        "id": "2",
+        "content": [
+          {
+            "type": "html",
+            "content": "<p>Cho biểu thức \\(S(x) = \\left[ x \\right] + \\left[ {\\dfrac{x}{2}} \\right] + \\left[ {\\dfrac{x}{3}} \\right] +&nbsp; \\cdot&nbsp; \\cdot&nbsp; \\cdot&nbsp; + \\left[ {\\dfrac{x}{{10000}}} \\right].\\) Với \\(x \\in \\mathbb{R}\\)</p>\n<p>T&iacute;nh \\(S(2037) - S(2036).\\) Trong đ&oacute; \\(\\left[ x \\right]\\) l&agrave; phần nguy&ecirc;n của \\(x\\) hay l&agrave; số nguy&ecirc;n lớn nhất kh&ocirc;ng vượt qu&aacute; \\(x\\). (<em>nhập đ&aacute;p &aacute;n v&agrave;o &ocirc; trống</em>)</p>"
+          }
+        ],
+        "correct_answer": [
+          "8"
+        ],
+        "clean_duplicate_space": true,
+        "case_intensitive": false,
+        "trim_white_space": true,
+        "trim_characters": "",
+        "prefix_break_line": false,
+        "prefix_input": [
+          {
+            "type": "html",
+            "content": "<p>Đ&aacute;p &aacute;n:</p>"
+          }
+        ],
+        "suffix_break_line": false,
+        "suffix_input": [
+          {
+            "type": "html",
+            "content": "<p>.</p>"
+          }
+        ],
+        "quiz": "1"
+      },
+      "solution_suggesstion": [
+        {
+          "type": "html",
+          "content": "<p>T&iacute;nh chất của phần nguy&ecirc;n</p>"
+        }
+      ],
+      "related_lesson": [],
+      "solution_detail": [
+        {
+          "type": "html",
+          "content": "<p><strong>Ta c&oacute;: </strong>\\(S(2037) - S(2036) = \\sum\\limits_{k = 1}^{k = 10000} {\\left( {\\left[ {\\dfrac{{2037}}{k}} \\right] - \\left[ {\\dfrac{{2036}}{k}} \\right]} \\right)} \\)</p>\n<p>Ta thấy: \\(\\left[ {\\dfrac{{x - 1}}{k}} \\right] \\le \\left[ {\\dfrac{x}{k}} \\right],k \\in {\\mathbb{N}^*}\\).</p>\n<p>Ta x&eacute;t \\(x\\) l&agrave; số nguy&ecirc;n</p>\n<p>Khi đ&oacute; \\(\\left[ {\\dfrac{{x - 1}}{k}} \\right] &lt; \\left[ {\\dfrac{x}{k}} \\right] = n \\Leftrightarrow x - 1 &lt; kn = x\\)</p>\n<p>Tức l&agrave; \\(\\left[ {\\dfrac{{x - 1}}{k}} \\right] = \\left[ {\\dfrac{x}{k}} \\right] - 1\\) khi v&agrave; chỉ khi \\(k\\) l&agrave; ước của \\(x\\).</p>\n<p>Suy ra với \\(k\\) l&agrave; ước của 2037 th&igrave; \\(\\left[ {\\dfrac{{2037}}{k}} \\right] - \\left[ {\\dfrac{{2036}}{k}} \\right] = 1\\) v&agrave; \\(k\\) kh&aacute;c ước của 2037 th&igrave; \\(\\left[ {\\dfrac{{2037}}{k}} \\right] - \\left[ {\\dfrac{{2036}}{k}} \\right] = 0\\)</p>\n<p>M&agrave; \\(2037 = 3 \\times 7 \\times 97 \\Rightarrow \\)\\(2037\\) c&oacute; 8 ước</p>\n<p>Vậy \\(S(2037) - S(2036) = 8\\)</p>"
+        }
+      ],
+      "note": [],
+      "group_id": "67510565bd608c5c9e8770d7",
+      "order": 1,
+      "sub_order": 1,
+      "idx": 202151,
+      "time_answer_question": 0
+    },
+    {
+      "_id": "67510765bd608c5c9e8770da",
+      "chapter": {
+        "id": "674fce16af166c5c9ef00aa2",
+        "name": "[ABCD] Tư duy - Logic"
+      },
+      "parent": {
+        "id": ""
+      },
+      "question_style": {
+        "general": 1,
+        "mobile": 1
+      },
+      "content_type": 2,
+      "question_type": 1,
+      "difficult_degree": 2,
+      "question": {
+        "id": "2",
+        "content": [
+          {
+            "type": "html",
+            "content": "<p>Bảng dưới cho biết thời gian di chuyển t&iacute;nh bằng ph&uacute;t của c&aacute;c tuyến xe bu&yacute;t giữa c&aacute;c bến xe \\(A,B,C,D,E\\). Số nằm tại &ocirc; giao của h&agrave;ng cột l&agrave; số ph&uacute;t xe bu&yacute;t đi từ bến n&agrave;y đến bến kia, dấu \\( \\times \\) biểu thị giữa hai bến n&agrave;y kh&ocirc;ng c&oacute; tuyến xe bu&yacute;t. Bạn Lan đi từ bến xe \\(A\\) đến bến xe&nbsp; \\(D\\) bằng cung đường nhanh nhất th&igrave; mất bao nhi&ecirc;u ph&uacute;t ( kh&ocirc;ng kể thời gian chờ xe bu&yacute;t)</p>\n<p><img src=\"https://cdn.vungoi.vn/vungoi/2024/1205/1733363502318_mceclip0.png\" /></p>\n<p><strong>&nbsp;</strong></p>"
+          }
+        ],
+        "answers": [
+          {
+            "id": "3",
+            "text": [
+              {
+                "type": "html",
+                "content": "<p>\\(60.\\)</p>"
+              }
+            ],
+            "answer_key": "a",
+            "correct": true,
+            "question": "2"
+          },
+          {
+            "id": "4",
+            "text": [
+              {
+                "type": "html",
+                "content": "<p>\\(35.\\)</p>"
+              }
+            ],
+            "answer_key": "b",
+            "correct": false,
+            "question": "2"
+          },
+          {
+            "id": "5",
+            "text": [
+              {
+                "type": "html",
+                "content": "<p>\\(45.\\)</p>"
+              }
+            ],
+            "answer_key": "c",
+            "correct": false,
+            "question": "2"
+          },
+          {
+            "id": "6",
+            "text": [
+              {
+                "type": "html",
+                "content": "<p>\\(65.\\)</p>"
+              }
+            ],
+            "answer_key": "d",
+            "correct": false,
+            "question": "2"
+          }
+        ],
+        "quiz": "1"
+      },
+      "solution_suggesstion": [
+        {
+          "type": "html",
+          "content": "<p>Tư duy - logic</p>"
+        }
+      ],
+      "related_lesson": [],
+      "solution_detail": [
+        {
+          "type": "html",
+          "content": "<p>V&igrave; kh&ocirc;ng c&oacute; tuyến xe từ A đến D n&ecirc;n bạn Lan phải đi qua tuyến B hoặc C hoặc E.</p>\n<p>Khi đ&oacute; ta c&oacute; nếu:</p>\n<p>Lan đi qua bến xe B th&igrave; tổng thời gian l&agrave;: 30+60=90 ph&uacute;t</p>\n<p>Lan đi qua bến xe C th&igrave; tổng thời gian l&agrave;: 20+45=65 ph&uacute;t</p>\n<p>Lan đi qua bến xe E th&igrave; tổng thời gian l&agrave;: 30+30=60 ph&uacute;t</p>\n<p>Vậy cung đường nhanh nhất để Lan đi từ bến A đến bến D l&agrave; đi qua bến E với tổng thời gian l&agrave; 60 ph&uacute;t.</p>"
+        }
+      ],
+      "note": [],
+      "group_id": "67510765bd608c5c9e8770dc",
+      "order": 1,
+      "sub_order": 1,
+      "idx": 202152,
+      "time_answer_question": 0
+    }
+  ],
+  "total": 48
+}
